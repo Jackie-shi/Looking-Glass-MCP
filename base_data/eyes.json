@@ -1,0 +1,3693 @@
+{
+  "https://lg.host-telecom.com/lg/": [
+    {
+      "asn": 9002,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,cz-rp-core);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,cz-rp-core);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,cz-rp-core);(protocol,select,IPv4);",
+      "id": 36
+    }
+  ],
+  "http://network.sg.gs/lg/": [
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,NL1 (EQIX AM7));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,NL1 (EQIX AM7));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,NL1 (EQIX AM7));(protocol,select,IPv4);",
+      "id": 49
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,TH1 (TCCT));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,TH1 (TCCT));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,TH1 (TCCT));(protocol,select,IPv4);",
+      "id": 50
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,UK1 (Telehouse North));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,UK1 (Telehouse North));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,UK1 (Telehouse North));(protocol,select,IPv4);",
+      "id": 51
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,DE1 (EQIX FR5));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,DE1 (EQIX FR5));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,DE1 (EQIX FR5));(protocol,select,IPv4);",
+      "id": 52
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,VN (HCMC));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,VN (HCMC));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,VN (HCMC));(protocol,select,IPv4);",
+      "id": 53
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,SG2 (Global Switch));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,SG2 (Global Switch));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,SG2 (Global Switch));(protocol,select,IPv4);",
+      "id": 54
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AU1 (NextDC P1));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AU1 (NextDC P1));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AU1 (NextDC P1));(protocol,select,IPv4);",
+      "id": 55
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AU2 (EQIX SY1));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AU2 (EQIX SY1));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AU2 (EQIX SY1));(protocol,select,IPv4);",
+      "id": 56
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,LAX1 (Coresite LA1));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,LAX1 (Coresite LA1));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,LAX1 (Coresite LA1));(protocol,select,IPv4);",
+      "id": 57
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,HK1 (MegaI));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,HK1 (MegaI));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,HK1 (MegaI));(protocol,select,IPv4);",
+      "id": 58
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,SG3 (Equinix SG1));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,SG3 (Equinix SG1));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,SG3 (Equinix SG1));(protocol,select,IPv4);",
+      "id": 59
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,PH1 (VM1));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,PH1 (VM1));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,PH1 (VM1));(protocol,select,IPv4);",
+      "id": 60
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,NYC1 (Telx NYC2));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,NYC1 (Telx NYC2));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,NYC1 (Telx NYC2));(protocol,select,IPv4);",
+      "id": 61
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,JP1 (EQIX TY2));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,JP1 (EQIX TY2));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,JP1 (EQIX TY2));(protocol,select,IPv4);",
+      "id": 62
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,SG4 (1-Net East));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,SG4 (1-Net East));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,SG4 (1-Net East));(protocol,select,IPv4);",
+      "id": 63
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,MY1 (AIMS));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,MY1 (AIMS));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,MY1 (AIMS));(protocol,select,IPv4);",
+      "id": 64
+    },
+    {
+      "asn": 24482,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,SG1 (Epsilon));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,SG1 (Epsilon));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,SG1 (Epsilon));(protocol,select,IPv4);",
+      "id": 65
+    }
+  ],
+  "https://lg.nexon.com.au/": [
+    {
+      "asn": 17766,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Sydney [Equinix SY3]);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Sydney [Equinix SY3]);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Sydney [Equinix SY3]);(protocol,select,IPv4);",
+      "id": 23
+    },
+    {
+      "asn": 17766,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Perth [Perth IX]);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Perth [Perth IX]);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Perth [Perth IX]);(protocol,select,IPv4);",
+      "id": 24
+    },
+    {
+      "asn": 17766,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Sydney [Equinix SY2]);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Sydney [Equinix SY2]);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Sydney [Equinix SY2]);(protocol,select,IPv4);",
+      "id": 25
+    },
+    {
+      "asn": 17766,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Brisbane [NextDC B1]);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Brisbane [NextDC B1]);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Brisbane [NextDC B1]);(protocol,select,IPv4);",
+      "id": 26
+    },
+    {
+      "asn": 17766,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Melbourne [Equinix ME1]);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Melbourne [Equinix ME1]);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Melbourne [Equinix ME1]);(protocol,select,IPv4);",
+      "id": 27
+    }
+  ],
+  "https://www.active24.cz/lg/lg.cgi": [
+    {
+      "asn": 25234,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,r1 (NIX1));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,r1 (NIX1));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,r1 (NIX1));(protocol,select,IPv4);",
+      "id": 264
+    },
+    {
+      "asn": 25234,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,r3 (NIX2));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,r3 (NIX2));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,r3 (NIX2));(protocol,select,IPv4);",
+      "id": 265
+    }
+  ],
+  "https://webline.telenor.no/ping": [
+    {
+      "asn": 2119,
+      "ping_cmd": "(pingtype,radio,Ping);(parameters,text,);(site,select,Amsterdam);",
+      "bgp_cmd": "(pingtype,radio,BGP);(parameters,text,);(site,select,Amsterdam);",
+      "trace_cmd": "(pingtype,radio,Traceroute);(parameters,text,);(site,select,Amsterdam);",
+      "id": 266
+    },
+    {
+      "asn": 2119,
+      "ping_cmd": "(pingtype,radio,Ping);(parameters,text,);(site,select,Frankfurt);",
+      "bgp_cmd": "(pingtype,radio,BGP);(parameters,text,);(site,select,Frankfurt);",
+      "trace_cmd": "(pingtype,radio,Traceroute);(parameters,text,);(site,select,Frankfurt);",
+      "id": 267
+    },
+    {
+      "asn": 2119,
+      "ping_cmd": "(pingtype,radio,Ping);(parameters,text,);(site,select,Gothenburg);",
+      "bgp_cmd": "(pingtype,radio,BGP);(parameters,text,);(site,select,Gothenburg);",
+      "trace_cmd": "(pingtype,radio,Traceroute);(parameters,text,);(site,select,Gothenburg);",
+      "id": 268
+    },
+    {
+      "asn": 2119,
+      "ping_cmd": "(pingtype,radio,Ping);(parameters,text,);(site,select,Malmoe);",
+      "bgp_cmd": "(pingtype,radio,BGP);(parameters,text,);(site,select,Malmoe);",
+      "trace_cmd": "(pingtype,radio,Traceroute);(parameters,text,);(site,select,Malmoe);",
+      "id": 269
+    },
+    {
+      "asn": 2119,
+      "ping_cmd": "(pingtype,radio,Ping);(parameters,text,);(site,select,London);",
+      "bgp_cmd": "(pingtype,radio,BGP);(parameters,text,);(site,select,London);",
+      "trace_cmd": "(pingtype,radio,Traceroute);(parameters,text,);(site,select,London);",
+      "id": 270
+    },
+    {
+      "asn": 2119,
+      "ping_cmd": "(pingtype,radio,Ping);(parameters,text,);(site,select,Oslo-1);",
+      "bgp_cmd": "(pingtype,radio,BGP);(parameters,text,);(site,select,Oslo-1);",
+      "trace_cmd": "(pingtype,radio,Traceroute);(parameters,text,);(site,select,Oslo-1);",
+      "id": 271
+    },
+    {
+      "asn": 2119,
+      "ping_cmd": "(pingtype,radio,Ping);(parameters,text,);(site,select,Oslo-2);",
+      "bgp_cmd": "(pingtype,radio,BGP);(parameters,text,);(site,select,Oslo-2);",
+      "trace_cmd": "(pingtype,radio,Traceroute);(parameters,text,);(site,select,Oslo-2);",
+      "id": 272
+    },
+    {
+      "asn": 2119,
+      "ping_cmd": "(pingtype,radio,Ping);(parameters,text,);(site,select,Stockholm-1);",
+      "bgp_cmd": "(pingtype,radio,BGP);(parameters,text,);(site,select,Stockholm-1);",
+      "trace_cmd": "(pingtype,radio,Traceroute);(parameters,text,);(site,select,Stockholm-1);",
+      "id": 273
+    },
+    {
+      "asn": 2119,
+      "ping_cmd": "(pingtype,radio,Ping);(parameters,text,);(site,select,Stockholm-2);",
+      "bgp_cmd": "(pingtype,radio,BGP);(parameters,text,);(site,select,Stockholm-2);",
+      "trace_cmd": "(pingtype,radio,Traceroute);(parameters,text,);(site,select,Stockholm-2);",
+      "id": 274
+    },
+    {
+      "asn": 2119,
+      "ping_cmd": "(pingtype,radio,Ping);(parameters,text,);(site,select,Sundsvall);",
+      "bgp_cmd": "(pingtype,radio,BGP);(parameters,text,);(site,select,Sundsvall);",
+      "trace_cmd": "(pingtype,radio,Traceroute);(parameters,text,);(site,select,Sundsvall);",
+      "id": 275
+    }
+  ],
+  "http://netmon.acad.bg/lg": [
+    {
+      "asn": 6802,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,sf-cr-3);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,sf-cr-3);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,sf-cr-3);(protocol,select,IPv4);",
+      "id": 385
+    }
+  ],
+  "https://lg.flextel.net.br/execute.php": [
+    {
+      "asn": 263959,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "id": 108
+    }
+  ],
+  "http://tools.corpnet.net.id/lg": [
+    {
+      "asn": 136106,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,StarNet BDO);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,StarNet BDO);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,StarNet BDO);(protocol,select,IPv4);",
+      "id": 28
+    },
+    {
+      "asn": 136106,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,StarNet BOO);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,StarNet BOO);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,StarNet BOO);(protocol,select,IPv4);",
+      "id": 29
+    },
+    {
+      "asn": 55699,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,StarNet BOO Router);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,StarNet BOO Router);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,StarNet BOO Router);(protocol,select,IPv4);",
+      "id": 30
+    }
+  ],
+  "http://lg.ampernet.com.br": [
+    {
+      "asn": 28158,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,Roteador1);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,Roteador1);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,Roteador1);(protocol,select,ipv4);",
+      "id": 390
+    },
+    {
+      "asn": 28158,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,Roteador3);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,Roteador3);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,Roteador3);(protocol,select,ipv4);",
+      "id": 391
+    },
+    {
+      "asn": 28158,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,Roteador2);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,Roteador2);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,Roteador2);(protocol,select,ipv4);",
+      "id": 392
+    }
+  ],
+  "https://lg.airlinktt.co/execute.php": [
+    {
+      "asn": 61478,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router3);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router3);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router3);",
+      "id": 161
+    },
+    {
+      "asn": 264811,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router2);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router2);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router2);",
+      "id": 162
+    },
+    {
+      "asn": 393434,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router1);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router1);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router1);",
+      "id": 163
+    }
+  ],
+  "https://lg.exatel.pl/lg/": [
+    {
+      "asn": 20804,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Warszawa);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Warszawa);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Warszawa);(protocol,select,IPv4);",
+      "id": 318
+    }
+  ],
+  "https://lg.daticum.com/lg/": [
+    {
+      "asn": 47748,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Daticum);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Daticum);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Daticum);(protocol,select,IPv4);",
+      "id": 160
+    }
+  ],
+  "https://mel-lg.binarylane.cloud/ajax.php": [
+    {
+      "asn": 133159,
+      "ping_cmd": "(cmd,select,ping);(host,text,);",
+      "bgp_cmd": "(cmd,select,bgp);(host,text,);",
+      "trace_cmd": "(cmd,select,traceroute);(host,text,);",
+      "id": 212
+    }
+  ],
+  "http://lg.yarnet.ru/": [
+    {
+      "asn": 197078,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,asr7);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,asr7);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,asr7);(protocol,select,ipv4);",
+      "id": 102
+    },
+    {
+      "asn": 197078,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,asr6);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,asr6);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,asr6);(protocol,select,ipv4);",
+      "id": 103
+    },
+    {
+      "asn": 197078,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,asr2);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,asr2);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,asr2);(protocol,select,ipv4);",
+      "id": 104
+    },
+    {
+      "asn": 20485,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,asr5);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,asr5);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,asr5);(protocol,select,ipv4);",
+      "id": 105
+    },
+    {
+      "asn": 20485,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,asr4);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,asr4);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,asr4);(protocol,select,ipv4);",
+      "id": 106
+    }
+  ],
+  "https://lg.opticfusion.net/execute.php": [
+    {
+      "asn": 18530,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router3);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router3);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router3);(dontlook,text,);",
+      "id": 71
+    },
+    {
+      "asn": 18530,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "id": 72
+    }
+  ],
+  "https://lg.atlex.ru/lg/": [
+    {
+      "asn": 57304,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,msd-rp-core);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,msd-rp-core);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,msd-rp-core);(protocol,select,IPv4);",
+      "id": 317
+    }
+  ],
+  "http://lg.owentis.com/execute.php": [
+    {
+      "asn": 39444,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "id": 154
+    },
+    {
+      "asn": 39444,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "id": 155
+    },
+    {
+      "asn": 133959,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router3);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router3);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router3);(dontlook,text,);",
+      "id": 156
+    }
+  ],
+  "http://lg.nordu.net/lg.cgi": [
+    {
+      "asn": 2603,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,se-sthb);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,se-sthb);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,se-sthb);(protocol,select,IPv4);",
+      "id": 136
+    },
+    {
+      "asn": 2603,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,se-tug2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,se-tug2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,se-tug2);(protocol,select,IPv4);",
+      "id": 137
+    },
+    {
+      "asn": 2603,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,de-ffm);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,de-ffm);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,de-ffm);(protocol,select,IPv4);",
+      "id": 138
+    },
+    {
+      "asn": 2603,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,dk-bal2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,dk-bal2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,dk-bal2);(protocol,select,IPv4);",
+      "id": 139
+    },
+    {
+      "asn": 2603,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,is-rey);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,is-rey);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,is-rey);(protocol,select,IPv4);",
+      "id": 140
+    },
+    {
+      "asn": 2603,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,us-ash2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,us-ash2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,us-ash2);(protocol,select,IPv4);",
+      "id": 141
+    },
+    {
+      "asn": 2603,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,se-tug);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,se-tug);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,se-tug);(protocol,select,IPv4);",
+      "id": 142
+    },
+    {
+      "asn": 2603,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,ch-gva);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,ch-gva);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,ch-gva);(protocol,select,IPv4);",
+      "id": 143
+    },
+    {
+      "asn": 2603,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,hk-chw);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,hk-chw);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,hk-chw);(protocol,select,IPv4);",
+      "id": 144
+    }
+  ],
+  "http://lg.as2116.net/": [
+    {
+      "asn": 2116,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Sweden - br1.lilj.as2116.net);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Sweden - br1.lilj.as2116.net);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Sweden - br1.lilj.as2116.net);(protocol,select,IPv4);",
+      "id": 243
+    },
+    {
+      "asn": 2116,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Oslo - br1.fn3.as2116.net);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Oslo - br1.fn3.as2116.net);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Oslo - br1.fn3.as2116.net);(protocol,select,IPv4);",
+      "id": 244
+    },
+    {
+      "asn": 2116,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Oslo - br1.osls.as2116.net);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Oslo - br1.osls.as2116.net);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Oslo - br1.osls.as2116.net);(protocol,select,IPv4);",
+      "id": 245
+    },
+    {
+      "asn": 2116,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Sweden - br2.stcy.as2116.net);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Sweden - br2.stcy.as2116.net);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Sweden - br2.stcy.as2116.net);(protocol,select,IPv4);",
+      "id": 246
+    }
+  ],
+  "https://noc.rub.de/lg": [
+    {
+      "asn": 12329,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,RUB Border Router 1);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,RUB Border Router 1);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,RUB Border Router 1);(protocol,select,IPv4);",
+      "id": 46
+    },
+    {
+      "asn": 29484,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,RUB Border Router 2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,RUB Border Router 2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,RUB Border Router 2);(protocol,select,IPv4);",
+      "id": 47
+    }
+  ],
+  "https://lg.ip-max.net/execute.php": [
+    {
+      "asn": 25091,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router6);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router6);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router6);(dontlook,text,);",
+      "id": 5
+    },
+    {
+      "asn": 25091,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "id": 6
+    },
+    {
+      "asn": 25091,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "id": 7
+    },
+    {
+      "asn": 25091,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router5);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router5);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router5);(dontlook,text,);",
+      "id": 8
+    },
+    {
+      "asn": 25091,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router7);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router7);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router7);(dontlook,text,);",
+      "id": 9
+    }
+  ],
+  "https://service.ccn.net/cgi-bin/lg.pl": [
+    {
+      "asn": 13237,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,city0 (AS 29488));(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,city0 (AS 29488));(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,city0 (AS 29488));(protocol,select,IPv4);",
+      "id": 90
+    }
+  ],
+  "https://lg.hostkey.net/execute.php": [
+    {
+      "asn": 50867,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router1);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router1);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router1);",
+      "id": 73
+    },
+    {
+      "asn": 50867,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router2);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router2);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router2);",
+      "id": 74
+    },
+    {
+      "asn": 57043,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router5);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router5);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router5);",
+      "id": 75
+    },
+    {
+      "asn": 57043,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router6);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router6);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router6);",
+      "id": 76
+    },
+    {
+      "asn": 57043,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router4);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router4);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router4);",
+      "id": 77
+    },
+    {
+      "asn": 57043,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router3);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router3);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router3);",
+      "id": 78
+    },
+    {
+      "asn": 395839,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router7);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router7);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router7);",
+      "id": 79
+    },
+    {
+      "asn": 395839,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router8);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router8);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router8);",
+      "id": 80
+    }
+  ],
+  "http://www.3net.sumy.ua/": [
+    {
+      "asn": 41967,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,jupiter.tks.sumy.ua);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,jupiter.tks.sumy.ua);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,jupiter.tks.sumy.ua);",
+      "id": 48
+    }
+  ],
+  "https://lookingglass.sunet.se/lg.cgi": [
+    {
+      "asn": 1653,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,sthb-r11);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,sthb-r11);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,sthb-r11);(protocol,select,IPv4);",
+      "id": 173
+    },
+    {
+      "asn": 1653,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,gbg7-r11);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,gbg7-r11);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,gbg7-r11);(protocol,select,IPv4);",
+      "id": 174
+    },
+    {
+      "asn": 1653,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,fsn2-r11);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,fsn2-r11);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,fsn2-r11);(protocol,select,IPv4);",
+      "id": 175
+    },
+    {
+      "asn": 1653,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,fln4-r11);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,fln4-r11);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,fln4-r11);(protocol,select,IPv4);",
+      "id": 176
+    },
+    {
+      "asn": 1653,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,bos-r11);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,bos-r11);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,bos-r11);(protocol,select,IPv4);",
+      "id": 177
+    },
+    {
+      "asn": 1653,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,gbg7-r12);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,gbg7-r12);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,gbg7-r12);(protocol,select,IPv4);",
+      "id": 178
+    },
+    {
+      "asn": 1653,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,sthb-r12);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,sthb-r12);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,sthb-r12);(protocol,select,IPv4);",
+      "id": 179
+    }
+  ],
+  "http://debby.sunrise.ch/lg": [
+    {
+      "asn": 6730,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Sunrise Routeserver);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Sunrise Routeserver);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Sunrise Routeserver);(protocol,select,IPv4);",
+      "id": 22
+    }
+  ],
+  "https://lg.seacomnet.com/": [
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-emg.za);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-emg.za);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-emg.za);(protocol,select,IPv4);",
+      "id": 247
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-ams.nl);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-ams.nl);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-ams.nl);(protocol,select,IPv4);",
+      "id": 248
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-lhr.uk);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-lhr.uk);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-lhr.uk);(protocol,select,IPv4);",
+      "id": 249
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-fra.de);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-fra.de);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-fra.de);(protocol,select,IPv4);",
+      "id": 250
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-jnb.za);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-jnb.za);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-jnb.za);(protocol,select,IPv4);",
+      "id": 251
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-dar.tz);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-dar.tz);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-dar.tz);(protocol,select,IPv4);",
+      "id": 252
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-nbo.ke);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-nbo.ke);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-nbo.ke);(protocol,select,IPv4);",
+      "id": 253
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-mba.ke);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-mba.ke);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-mba.ke);(protocol,select,IPv4);",
+      "id": 254
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-mpm.mz);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-mpm.mz);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-mpm.mz);(protocol,select,IPv4);",
+      "id": 255
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-cpt.za);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-cpt.za);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-cpt.za);(protocol,select,IPv4);",
+      "id": 256
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-02-lhr.uk);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-02-lhr.uk);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-02-lhr.uk);(protocol,select,IPv4);",
+      "id": 257
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-dur.za);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-dur.za);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-dur.za);(protocol,select,IPv4);",
+      "id": 258
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-mrs.fr);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-mrs.fr);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-mrs.fr);(protocol,select,IPv4);",
+      "id": 259
+    }
+  ],
+  "https://bne-lg.binarylane.cloud/ajax.php": [
+    {
+      "asn": 133159,
+      "ping_cmd": "(cmd,select,ping);(host,text,);",
+      "bgp_cmd": "(cmd,select,bgp);(host,text,);",
+      "trace_cmd": "(cmd,select,traceroute);(host,text,);",
+      "id": 241
+    }
+  ],
+  "https://lg.maple-hosting.com/execute.php": [
+    {
+      "asn": 49453,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "id": 387
+    },
+    {
+      "asn": 49453,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router3);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router3);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router3);(dontlook,text,);",
+      "id": 388
+    },
+    {
+      "asn": 49453,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "id": 389
+    }
+  ],
+  "http://lg.netia.pl/": [
+    {
+      "asn": 12741,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,NETIA);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,NETIA);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,NETIA);(protocol,select,IPv4);",
+      "id": 67
+    }
+  ],
+  "http://lg.tktelekom.pl": [
+    {
+      "asn": 12741,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,NETIA);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,NETIA);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,NETIA);(protocol,select,IPv4);",
+      "id": 393
+    }
+  ],
+  "http://lg.zsttk.ru/index.php": [
+    {
+      "asn": 21127,
+      "ping_cmd": "(act,select,ping);(prefix,text,);(action,tmp,submitted);",
+      "bgp_cmd": "(act,select,show ip bgp);(prefix,text,);(action,tmp,submitted);",
+      "trace_cmd": "(act,select,traceroute);(prefix,text,);(action,tmp,submitted);",
+      "id": 17
+    }
+  ],
+  "https://www.76telecom.com.br/lg/": [
+    {
+      "asn": 262760,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS262760-ICR01);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS262760-ICR01);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS262760-ICR01);(protocol,select,IPv4);",
+      "id": 293
+    }
+  ],
+  "https://per-lg.binarylane.cloud/ajax.php": [
+    {
+      "asn": 133159,
+      "ping_cmd": "(cmd,select,ping);(host,text,);",
+      "bgp_cmd": "(cmd,select,bgp);(host,text,);",
+      "trace_cmd": "(cmd,select,traceroute);(host,text,);",
+      "id": 415
+    }
+  ],
+  "http://dev.hsdn.org/lg/": [
+    {
+      "asn": 7018,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,example3);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,example3);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,example3);(protocol,select,ipv4);",
+      "id": 416
+    },
+    {
+      "asn": 7474,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,example1);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,example1);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,example1);(protocol,select,ipv4);",
+      "id": 417
+    }
+  ],
+  "https://lg.ggamaur.net/": [
+    {
+      "asn": 13030,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Interxion,Glattbrugg,Switzerland);(protocol,select,ip);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Interxion,Glattbrugg,Switzerland);(protocol,select,ip);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Interxion,Glattbrugg,Switzerland);(protocol,select,ip);",
+      "id": 164
+    },
+    {
+      "asn": 21232,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Colozuri,Zurich,Switzerland);(protocol,select,ip);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Colozuri,Zurich,Switzerland);(protocol,select,ip);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Colozuri,Zurich,Switzerland);(protocol,select,ip);",
+      "id": 165
+    }
+  ],
+  "https://lg.luxnetwork.eu/execute.php": [
+    {
+      "asn": 29467,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,par-th2-br01.as29467.net);(vrf,select,none);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,par-th2-br01.as29467.net);(vrf,select,none);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,par-th2-br01.as29467.net);(vrf,select,none);(dontlook,text,);",
+      "id": 32
+    }
+  ],
+  "https://lg.ramtel.ru/": [
+    {
+      "asn": 24638,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,MSK);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,MSK);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,MSK);(protocol,select,IPv4);",
+      "id": 312
+    }
+  ],
+  "http://lg.gin.ru/": [
+    {
+      "asn": 2854,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Petersburg-GIN-PE01);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Petersburg-GIN-PE01);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Petersburg-GIN-PE01);",
+      "id": 343
+    },
+    {
+      "asn": 2854,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Moscow-GIN-PE03);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Moscow-GIN-PE03);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Moscow-GIN-PE03);",
+      "id": 344
+    },
+    {
+      "asn": 2854,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Petersburg-GIN-PE02);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Petersburg-GIN-PE02);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Petersburg-GIN-PE02);",
+      "id": 345
+    },
+    {
+      "asn": 2854,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Moscow-GIN-VRR01);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Moscow-GIN-VRR01);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Moscow-GIN-VRR01);",
+      "id": 346
+    },
+    {
+      "asn": 2854,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Moscow09);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Moscow09);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Moscow09);",
+      "id": 347
+    },
+    {
+      "asn": 2854,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Novosibirsk-GIN-PE03);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Novosibirsk-GIN-PE03);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Novosibirsk-GIN-PE03);",
+      "id": 348
+    },
+    {
+      "asn": 2854,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Moscow-GIN-IX01);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Moscow-GIN-IX01);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Moscow-GIN-IX01);",
+      "id": 349
+    }
+  ],
+  "https://lg.5gn.com.au/execute.php": [
+    {
+      "asn": 63956,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router8);(vrf,select,routing-instance international);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router8);(vrf,select,routing-instance international);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router8);(vrf,select,routing-instance international);(dontlook,text,);",
+      "id": 170
+    }
+  ],
+  "http://safnog.net/": [
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-02-lhr.uk);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-02-lhr.uk);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-02-lhr.uk);(protocol,select,IPv4);",
+      "id": 399
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-cpt.za);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-cpt.za);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-cpt.za);(protocol,select,IPv4);",
+      "id": 400
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-fra.de);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-fra.de);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-fra.de);(protocol,select,IPv4);",
+      "id": 401
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-lhr.uk);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-lhr.uk);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-lhr.uk);(protocol,select,IPv4);",
+      "id": 402
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-ebb.ug);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-ebb.ug);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-ebb.ug);(protocol,select,IPv4);",
+      "id": 403
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-dur.za);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-dur.za);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-dur.za);(protocol,select,IPv4);",
+      "id": 404
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-nbo.ke);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-nbo.ke);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-nbo.ke);(protocol,select,IPv4);",
+      "id": 405
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-mpm.mz);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-mpm.mz);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-mpm.mz);(protocol,select,IPv4);",
+      "id": 406
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-dar.tz);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-dar.tz);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-dar.tz);(protocol,select,IPv4);",
+      "id": 407
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-ams.nl);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-ams.nl);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-ams.nl);(protocol,select,IPv4);",
+      "id": 408
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-mrs.fr);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-mrs.fr);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-mrs.fr);(protocol,select,IPv4);",
+      "id": 409
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-jnb.za);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-jnb.za);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-jnb.za);(protocol,select,IPv4);",
+      "id": 410
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-emg.za);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-emg.za);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-emg.za);(protocol,select,IPv4);",
+      "id": 411
+    },
+    {
+      "asn": 37100,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,lg-01-mba.ke);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,lg-01-mba.ke);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,traceroute);(addr,text,);(router,select,lg-01-mba.ke);(protocol,select,IPv4);",
+      "id": 412
+    }
+  ],
+  "http://lg.idola.net.id": [
+    {
+      "asn": 2914,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,SG, Singapore - EQN 1, Equinix Singapore);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,SG, Singapore - EQN 1, Equinix Singapore);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,SG, Singapore - EQN 1, Equinix Singapore);(protocol,select,ipv4);",
+      "id": 307
+    },
+    {
+      "asn": 1299,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,SG, Singapore - EQN 2, Equinix Singapore);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,SG, Singapore - EQN 2, Equinix Singapore);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,SG, Singapore - EQN 2, Equinix Singapore);(protocol,select,ipv4);",
+      "id": 308
+    },
+    {
+      "asn": 4800,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,ID, Jakarta - TB Simatupang - Domestik);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,ID, Jakarta - TB Simatupang - Domestik);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,ID, Jakarta - TB Simatupang - Domestik);(protocol,select,ipv4);",
+      "id": 309
+    }
+  ],
+  "http://lg.ruscomnet.ru/": [
+    {
+      "asn": 59589,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,d2-msk-m9 Moscow);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,d2-msk-m9 Moscow);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,d2-msk-m9 Moscow);",
+      "id": 418
+    },
+    {
+      "asn": 207645,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,d2-hq Moscow);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,d2-hq Moscow);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,d2-hq Moscow);",
+      "id": 419
+    }
+  ],
+  "http://lg.rosprint.net/lg/": [
+    {
+      "asn": 2854,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Moscow09);(protocol,select,IPv6);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Moscow09);(protocol,select,IPv6);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Moscow09);(protocol,select,IPv6);",
+      "id": 95
+    },
+    {
+      "asn": 2854,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Petersburg-GIN-PE02);(protocol,select,IPv6);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Petersburg-GIN-PE02);(protocol,select,IPv6);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Petersburg-GIN-PE02);(protocol,select,IPv6);",
+      "id": 96
+    },
+    {
+      "asn": 2854,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Moscow-GIN-IX01);(protocol,select,IPv6);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Moscow-GIN-IX01);(protocol,select,IPv6);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Moscow-GIN-IX01);(protocol,select,IPv6);",
+      "id": 97
+    },
+    {
+      "asn": 2854,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Moscow-GIN-VRR01);(protocol,select,IPv6);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Moscow-GIN-VRR01);(protocol,select,IPv6);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Moscow-GIN-VRR01);(protocol,select,IPv6);",
+      "id": 98
+    },
+    {
+      "asn": 2854,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Moscow-GIN-PE03);(protocol,select,IPv6);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Moscow-GIN-PE03);(protocol,select,IPv6);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Moscow-GIN-PE03);(protocol,select,IPv6);",
+      "id": 99
+    },
+    {
+      "asn": 2854,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Petersburg-GIN-PE01);(protocol,select,IPv6);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Petersburg-GIN-PE01);(protocol,select,IPv6);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Petersburg-GIN-PE01);(protocol,select,IPv6);",
+      "id": 100
+    },
+    {
+      "asn": 2854,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Novosibirsk-GIN-PE03);(protocol,select,IPv6);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Novosibirsk-GIN-PE03);(protocol,select,IPv6);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Novosibirsk-GIN-PE03);(protocol,select,IPv6);",
+      "id": 101
+    }
+  ],
+  "https://lg.jbinfo.com.br/execute.php": [
+    {
+      "asn": 264923,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "id": 297
+    }
+  ],
+  "https://lg.rainternet.com.br/": [
+    {
+      "asn": 266136,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,RouteServer);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,RouteServer);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,RouteServer);(protocol,select,ipv4);",
+      "id": 81
+    }
+  ],
+  "https://sin-lg.binarylane.cloud/ajax.php": [
+    {
+      "asn": 133159,
+      "ping_cmd": "(cmd,select,ping);(host,text,);",
+      "bgp_cmd": "(cmd,select,bgp);(host,text,);",
+      "trace_cmd": "(cmd,select,traceroute);(host,text,);",
+      "id": 4
+    }
+  ],
+  "https://lg.beget.com/execute.php": [
+    {
+      "asn": 198610,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "id": 211
+    }
+  ],
+  "http://lg.unibit.ru": [
+    {
+      "asn": 57304,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,M9_Border1);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,M9_Border1);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,M9_Border1);(protocol,select,IPv4);",
+      "id": 33
+    },
+    {
+      "asn": 57304,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,M9_Border2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,M9_Border2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,M9_Border2);(protocol,select,IPv4);",
+      "id": 34
+    }
+  ],
+  "https://lg.rise.ph/execute.php": [
+    {
+      "asn": 137074,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router1);(vrf,select,Platinum);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router1);(vrf,select,Platinum);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router1);(vrf,select,Platinum);(dontlook,text,);",
+      "id": 394
+    },
+    {
+      "asn": 137074,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router2);(vrf,select,Platinum);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router2);(vrf,select,Platinum);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router2);(vrf,select,Platinum);(dontlook,text,);",
+      "id": 395
+    }
+  ],
+  "https://lg.as37497.net/execute.php": [
+    {
+      "asn": 37497,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,hexedge1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,hexedge1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,hexedge1);(dontlook,text,);",
+      "id": 0
+    },
+    {
+      "asn": 37497,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,dbnedge1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,dbnedge1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,dbnedge1);(dontlook,text,);",
+      "id": 1
+    },
+    {
+      "asn": 37497,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,isdedge2);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,isdedge2);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,isdedge2);(dontlook,text,);",
+      "id": 2
+    },
+    {
+      "asn": 37497,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,cptedge1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,cptedge1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,cptedge1);(dontlook,text,);",
+      "id": 3
+    }
+  ],
+  "http://looking.cabase.org.ar/cgi-bin/lg.cgi": [
+    {
+      "asn": 52404,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS52404 POS);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS52404 POS);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS52404 POS);(protocol,select,IPv4);",
+      "id": 217
+    },
+    {
+      "asn": 52374,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS52374 COR);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS52374 COR);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS52374 COR);(protocol,select,IPv4);",
+      "id": 218
+    },
+    {
+      "asn": 61521,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS61521 JUJ);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS61521 JUJ);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS61521 JUJ);(protocol,select,IPv4);",
+      "id": 219
+    },
+    {
+      "asn": 61553,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS61553 UAQ);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS61553 UAQ);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS61553 UAQ);(protocol,select,IPv4);",
+      "id": 220
+    },
+    {
+      "asn": 52375,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS52375 LPL);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS52375 LPL);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS52375 LPL);(protocol,select,IPv4);",
+      "id": 221
+    },
+    {
+      "asn": 52359,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS52359 SFE);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS52359 SFE);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS52359 SFE);(protocol,select,IPv4);",
+      "id": 222
+    },
+    {
+      "asn": 61495,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS61495 JUN);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS61495 JUN);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS61495 JUN);(protocol,select,IPv4);",
+      "id": 223
+    },
+    {
+      "asn": 52508,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS52508 NGB);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS52508 NGB);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS52508 NGB);(protocol,select,IPv4);",
+      "id": 224
+    },
+    {
+      "asn": 52332,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS52332 BHB);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS52332 BHB);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS52332 BHB);(protocol,select,IPv4);",
+      "id": 225
+    },
+    {
+      "asn": 52370,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS52370 DLC);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS52370 DLC);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS52370 DLC);(protocol,select,IPv4);",
+      "id": 226
+    },
+    {
+      "asn": 52324,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS52324 ROS);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS52324 ROS);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS52324 ROS);(protocol,select,IPv4);",
+      "id": 227
+    },
+    {
+      "asn": 61441,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS61441 BRC);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS61441 BRC);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS61441 BRC);(protocol,select,IPv4);",
+      "id": 228
+    },
+    {
+      "asn": 52294,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS52294 NQN);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS52294 NQN);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS52294 NQN);(protocol,select,IPv4);",
+      "id": 229
+    },
+    {
+      "asn": 52509,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS52509 SZP);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS52509 SZP);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS52509 SZP);(protocol,select,IPv4);",
+      "id": 230
+    },
+    {
+      "asn": 52500,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS52500 PMY);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS52500 PMY);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS52500 PMY);(protocol,select,IPv4);",
+      "id": 231
+    },
+    {
+      "asn": 52360,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS52360 MZA);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS52360 MZA);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS52360 MZA);(protocol,select,IPv4);",
+      "id": 232
+    },
+    {
+      "asn": 64104,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS64104 RST);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS64104 RST);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS64104 RST);(protocol,select,IPv4);",
+      "id": 233
+    },
+    {
+      "asn": 61520,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS61520 SLT-FRR);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS61520 SLT-FRR);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS61520 SLT-FRR);(protocol,select,IPv4);",
+      "id": 234
+    },
+    {
+      "asn": 52403,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS52403 MDQ);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS52403 MDQ);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS52403 MDQ);(protocol,select,IPv4);",
+      "id": 235
+    },
+    {
+      "asn": 61504,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS61504 PER);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS61504 PER);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS61504 PER);(protocol,select,IPv4);",
+      "id": 236
+    },
+    {
+      "asn": 61494,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS61494 SLU);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS61494 SLU);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS61494 SLU);(protocol,select,IPv4);",
+      "id": 237
+    },
+    {
+      "asn": 52376,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS52376 BUE-FRR IPv4);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS52376 BUE-FRR IPv4);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS52376 BUE-FRR IPv4);(protocol,select,IPv4);",
+      "id": 238
+    },
+    {
+      "asn": 61554,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS61554 VDM-FRR);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS61554 VDM-FRR);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS61554 VDM-FRR);(protocol,select,IPv4);",
+      "id": 239
+    },
+    {
+      "asn": 64103,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,AS64103 TDL-FRR);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,AS64103 TDL-FRR);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,AS64103 TDL-FRR);(protocol,select,IPv4);",
+      "id": 240
+    }
+  ],
+  "http://lg.pinspb.ru/": [
+    {
+      "asn": 6939,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,TR-M9-MX204_2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,TR-M9-MX204_2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,TR-M9-MX204_2);(protocol,select,IPv4);",
+      "id": 145
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,TR-BONCH-MX204);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,TR-BONCH-MX204);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,TR-BONCH-MX204);(protocol,select,IPv4);",
+      "id": 146
+    },
+    {
+      "asn": 50509,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,PINVDS);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,PINVDS);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,PINVDS);(protocol,select,IPv4);",
+      "id": 147
+    }
+  ],
+  "https://as21351.mq/looking-glass/execute.php": [
+    {
+      "asn": 21351,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,mxnap1-us);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,mxnap1-us);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,mxnap1-us);(dontlook,text,);",
+      "id": 261
+    },
+    {
+      "asn": 21351,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,mxgal1-mf);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,mxgal1-mf);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,mxgal1-mf);(dontlook,text,);",
+      "id": 262
+    },
+    {
+      "asn": 21351,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,mxnap2-us);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,mxnap2-us);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,mxnap2-us);(dontlook,text,);",
+      "id": 263
+    }
+  ],
+  "http://lg.alastyr.com/ajax.php": [
+    {
+      "asn": 3188,
+      "ping_cmd": "(cmd,select,ping);(host,text,);",
+      "bgp_cmd": "(cmd,select,bgp);(host,text,);",
+      "trace_cmd": "(cmd,select,traceroute);(host,text,);",
+      "id": 149
+    }
+  ],
+  "http://aurora.on.tac.net/": [
+    {
+      "asn": 852,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,TELUS_WEST_LG11);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,TELUS_WEST_LG11);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,TELUS_WEST_LG11);(protocol,select,IPv4);",
+      "id": 397
+    },
+    {
+      "asn": 852,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,TELUS_EAST_LG11);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,TELUS_EAST_LG11);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,TELUS_EAST_LG11);(protocol,select,IPv4);",
+      "id": 398
+    }
+  ],
+  "https://syd-lg.binarylane.cloud/ajax.php": [
+    {
+      "asn": 133159,
+      "ping_cmd": "(cmd,select,ping);(host,text,);",
+      "bgp_cmd": "(cmd,select,bgp);(host,text,);",
+      "trace_cmd": "(cmd,select,traceroute);(host,text,);",
+      "id": 125
+    }
+  ],
+  "http://lg.telus.com": [
+    {
+      "asn": 852,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,TELUS_EAST_LG11);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,TELUS_EAST_LG11);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,TELUS_EAST_LG11);(protocol,select,IPv4);",
+      "id": 423
+    },
+    {
+      "asn": 852,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,TELUS_WEST_LG11);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,TELUS_WEST_LG11);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,TELUS_WEST_LG11);(protocol,select,IPv4);",
+      "id": 424
+    }
+  ],
+  "https://www.as29140.net/cgi-bin/bgplg": [
+    {
+      "asn": 29140,
+      "ping_cmd": "(cmd,select,ping);(req,text,);",
+      "bgp_cmd": "(cmd,select,show ip bgp);(req,text,);",
+      "trace_cmd": "(cmd,select,traceroute);(req,text,);",
+      "id": 107
+    }
+  ],
+  "https://lg.datahata.by/cgi-bin/bgplg": [
+    {
+      "asn": 56740,
+      "ping_cmd": "(cmd,select,ping);(req,text,);",
+      "bgp_cmd": "(cmd,select,show ip bgp);(req,text,);",
+      "trace_cmd": "(cmd,select,traceroute);(req,text,);",
+      "id": 260
+    }
+  ],
+  "https://lg.delta.bg/check": [
+    {
+      "asn": 3257,
+      "ping_cmd": "(type,radio,ping);(ip,text,);(ipv,tmp,4);",
+      "bgp_cmd": "(type,radio,bgp);(ip,text,);(ipv,tmp,4);",
+      "trace_cmd": "(type,radio,trace);(ip,text,);(ipv,tmp,4);",
+      "id": 242
+    }
+  ],
+  "http://lg.contato.net/cgi-bin/bgplg": [
+    {
+      "asn": 28642,
+      "ping_cmd": "(cmd,select,ping);(req,text,);",
+      "bgp_cmd": "(cmd,select,show ip bgp);(req,text,);",
+      "trace_cmd": "(cmd,select,traceroute);(req,text,);",
+      "id": 66
+    }
+  ],
+  "http://lg.lan.switch.ch/lg/lg.cgi": [
+    {
+      "asn": 559,
+      "ping_cmd": "(query,radio,ping);(arg,text,);(router,select,swiEZ3.switch.ch);",
+      "bgp_cmd": "(query,radio,bgp);(arg,text,);(router,select,swiEZ3.switch.ch);",
+      "trace_cmd": "(query,radio,mtrace);(arg,text,);(router,select,swiEZ3.switch.ch);",
+      "id": 120
+    },
+    {
+      "asn": 559,
+      "ping_cmd": "(query,radio,ping);(arg,text,);(router,select,swiCE2.switch.ch);",
+      "bgp_cmd": "(query,radio,bgp);(arg,text,);(router,select,swiCE2.switch.ch);",
+      "trace_cmd": "(query,radio,mtrace);(arg,text,);(router,select,swiCE2.switch.ch);",
+      "id": 121
+    },
+    {
+      "asn": 559,
+      "ping_cmd": "(query,radio,ping);(arg,text,);(router,select,swiKR2.switch.ch);",
+      "bgp_cmd": "(query,radio,bgp);(arg,text,);(router,select,swiKR2.switch.ch);",
+      "trace_cmd": "(query,radio,mtrace);(arg,text,);(router,select,swiKR2.switch.ch);",
+      "id": 122
+    },
+    {
+      "asn": 559,
+      "ping_cmd": "(query,radio,ping);(arg,text,);(router,select,swiBA3.switch.ch);",
+      "bgp_cmd": "(query,radio,bgp);(arg,text,);(router,select,swiBA3.switch.ch);",
+      "trace_cmd": "(query,radio,mtrace);(arg,text,);(router,select,swiBA3.switch.ch);",
+      "id": 123
+    },
+    {
+      "asn": 559,
+      "ping_cmd": "(query,radio,ping);(arg,text,);(router,select,swiZH3.switch.ch);",
+      "bgp_cmd": "(query,radio,bgp);(arg,text,);(router,select,swiZH3.switch.ch);",
+      "trace_cmd": "(query,radio,mtrace);(arg,text,);(router,select,swiZH3.switch.ch);",
+      "id": 124
+    }
+  ],
+  "http://tools.virtutel.com.au/lg/lg.cgi": [
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Brisbane, Equinix BR1, AU);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Brisbane, Equinix BR1, AU);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Brisbane, Equinix BR1, AU);(protocol,select,IPv4);",
+      "id": 277
+    },
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Perth, NextDC P1, AU);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Perth, NextDC P1, AU);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Perth, NextDC P1, AU);(protocol,select,IPv4);",
+      "id": 278
+    },
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Canberra, NextDC C1, AU);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Canberra, NextDC C1, AU);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Canberra, NextDC C1, AU);(protocol,select,IPv4);",
+      "id": 279
+    },
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Melbourne, Vocus VDC3, AU);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Melbourne, Vocus VDC3, AU);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Melbourne, Vocus VDC3, AU);(protocol,select,IPv4);",
+      "id": 280
+    },
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Singapore, Equinx SG3, SG);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Singapore, Equinx SG3, SG);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Singapore, Equinx SG3, SG);(protocol,select,IPv4);",
+      "id": 281
+    },
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Melbourne, Equinix ME1, AU);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Melbourne, Equinix ME1, AU);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Melbourne, Equinix ME1, AU);(protocol,select,IPv4);",
+      "id": 282
+    },
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Perth, Equinix PE2, AU);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Perth, Equinix PE2, AU);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Perth, Equinix PE2, AU);(protocol,select,IPv4);",
+      "id": 283
+    },
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Sydney, Equinix SY1, AU);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Sydney, Equinix SY1, AU);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Sydney, Equinix SY1, AU);(protocol,select,IPv4);",
+      "id": 284
+    },
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Darwin, SecureDC, AU);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Darwin, SecureDC, AU);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Darwin, SecureDC, AU);(protocol,select,IPv4);",
+      "id": 285
+    },
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Auckland, 220QueenDC, NZ);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Auckland, 220QueenDC, NZ);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Auckland, 220QueenDC, NZ);(protocol,select,IPv4);",
+      "id": 286
+    },
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Hobart, 7HOB POI, AU);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Hobart, 7HOB POI, AU);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Hobart, 7HOB POI, AU);(protocol,select,IPv4);",
+      "id": 287
+    },
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Primary Route Reflector);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Primary Route Reflector);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Primary Route Reflector);(protocol,select,IPv4);",
+      "id": 288
+    },
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Brisbane, NextDC B1, AU);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Brisbane, NextDC B1, AU);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Brisbane, NextDC B1, AU);(protocol,select,IPv4);",
+      "id": 289
+    },
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Melbourne, NextDC M1, AU);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Melbourne, NextDC M1, AU);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Melbourne, NextDC M1, AU);(protocol,select,IPv4);",
+      "id": 290
+    },
+    {
+      "asn": 24516,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Sydney, NextDC S1, AU);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Sydney, NextDC S1, AU);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Sydney, NextDC S1, AU);(protocol,select,IPv4);",
+      "id": 291
+    },
+    {
+      "asn": 3491,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Los Angeles, Coresite LA1, US);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Los Angeles, Coresite LA1, US);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Los Angeles, Coresite LA1, US);(protocol,select,IPv4);",
+      "id": 292
+    }
+  ],
+  "https://lg.tet.lv/": [
+    {
+      "asn": 12578,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Riga IC2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Riga IC2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Riga IC2);(protocol,select,IPv4);",
+      "id": 118
+    },
+    {
+      "asn": 12578,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Riga IC1);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Riga IC1);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Riga IC1);(protocol,select,IPv4);",
+      "id": 119
+    }
+  ],
+  "http://lg.marwan.ma/execute.php": [
+    {
+      "asn": 30983,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "id": 31
+    }
+  ],
+  "https://rdfnet.com.br/lg/execute.php": [
+    {
+      "asn": 53139,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "id": 315
+    }
+  ],
+  "http://lg.rascom.ru/": [
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,ams-equ-cr1);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,ams-equ-cr1);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,ams-equ-cr1);(protocol,select,IPv4);",
+      "id": 180
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,chu-ds-cr2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,chu-ds-cr2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,chu-ds-cr2);(protocol,select,IPv4);",
+      "id": 181
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,busl-abk-cr2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,busl-abk-cr2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,busl-abk-cr2);(protocol,select,IPv4);",
+      "id": 182
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,bol-dc-cr2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,bol-dc-cr2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,bol-dc-cr2);(protocol,select,IPv4);",
+      "id": 183
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,spb-sel-cr2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,spb-sel-cr2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,spb-sel-cr2);(protocol,select,IPv4);",
+      "id": 184
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,tver-ds-cr2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,tver-ds-cr2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,tver-ds-cr2);(protocol,select,IPv4);",
+      "id": 185
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,hel-rk5-cr2.rascom.ru);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,hel-rk5-cr2.rascom.ru);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,hel-rk5-cr2.rascom.ru);(protocol,select,IPv4);",
+      "id": 186
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,spb-linx-cr1);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,spb-linx-cr1);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,spb-linx-cr1);(protocol,select,IPv4);",
+      "id": 187
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,stk-tct-cr3.rascom.ru);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,stk-tct-cr3.rascom.ru);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,stk-tct-cr3.rascom.ru);(protocol,select,IPv4);",
+      "id": 188
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,ams-equ-cr3);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,ams-equ-cr3);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,ams-equ-cr3);(protocol,select,IPv4);",
+      "id": 189
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,tbs-cl9-cr1.rascom.ru);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,tbs-cl9-cr1.rascom.ru);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,tbs-cl9-cr1.rascom.ru);(protocol,select,IPv4);",
+      "id": 190
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,msk-m9-cr5);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,msk-m9-cr5);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,msk-m9-cr5);(protocol,select,IPv4);",
+      "id": 191
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,stk-tct-cr1.rascom.ru);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,stk-tct-cr1.rascom.ru);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,stk-tct-cr1.rascom.ru);(protocol,select,IPv4);",
+      "id": 192
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,frm-nt-cr2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,frm-nt-cr2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,frm-nt-cr2);(protocol,select,IPv4);",
+      "id": 193
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,stk-ixn-cr2.rascom.ru);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,stk-ixn-cr2.rascom.ru);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,stk-ixn-cr2.rascom.ru);(protocol,select,IPv4);",
+      "id": 194
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,spb-ivc-cr3);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,spb-ivc-cr3);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,spb-ivc-cr3);(protocol,select,IPv4);",
+      "id": 195
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,msk-3v-cr1);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,msk-3v-cr1);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,msk-3v-cr1);(protocol,select,IPv4);",
+      "id": 196
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,spb-bm18-cr1);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,spb-bm18-cr1);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,spb-bm18-cr1);(protocol,select,IPv4);",
+      "id": 197
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,msk-m9-cr1);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,msk-m9-cr1);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,msk-m9-cr1);(protocol,select,IPv4);",
+      "id": 198
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,spb-ivc-cr2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,spb-ivc-cr2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,spb-ivc-cr2);(protocol,select,IPv4);",
+      "id": 199
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,spb-sel-cr1);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,spb-sel-cr1);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,spb-sel-cr1);(protocol,select,IPv4);",
+      "id": 200
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,msk-dtl-cr1);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,msk-dtl-cr1);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,msk-dtl-cr1);(protocol,select,IPv4);",
+      "id": 201
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,frm-nt-cr3);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,frm-nt-cr3);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,frm-nt-cr3);(protocol,select,IPv4);",
+      "id": 202
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,msk-m9-cr3);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,msk-m9-cr3);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,msk-m9-cr3);(protocol,select,IPv4);",
+      "id": 203
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,hel-rk5-cr1.rascom.ru);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,hel-rk5-cr1.rascom.ru);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,hel-rk5-cr1.rascom.ru);(protocol,select,IPv4);",
+      "id": 204
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,klin-ds-cr2);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,klin-ds-cr2);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,klin-ds-cr2);(protocol,select,IPv4);",
+      "id": 205
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,spb-imq-cr1);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,spb-imq-cr1);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,spb-imq-cr1);(protocol,select,IPv4);",
+      "id": 206
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,msk-bor7-cr1);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,msk-bor7-cr1);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,msk-bor7-cr1);(protocol,select,IPv4);",
+      "id": 207
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,spb-mir-cr1);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,spb-mir-cr1);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,spb-mir-cr1);(protocol,select,IPv4);",
+      "id": 208
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,spb-r2-cr1);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,spb-r2-cr1);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,spb-r2-cr1);(protocol,select,IPv4);",
+      "id": 209
+    },
+    {
+      "asn": 20764,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,stk-tct-cr2.rascom.ru);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,stk-tct-cr2.rascom.ru);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,stk-tct-cr2.rascom.ru);(protocol,select,IPv4);",
+      "id": 210
+    }
+  ],
+  "https://lg.as328112.net/": [
+    {
+      "asn": 328112,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,cr-01-jhb.za);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,cr-01-jhb.za);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,cr-01-jhb.za);(protocol,select,ipv4);",
+      "id": 786
+    },
+    {
+      "asn": 328112,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,cr-01-cpt.za);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,cr-01-cpt.za);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,cr-01-cpt.za);(protocol,select,ipv4);",
+      "id": 787
+    }
+  ],
+  "https://mosnet.ru/lg/": [
+    {
+      "asn": 8641,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,border-gw-m10);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,border-gw-m10);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,border-gw-m10);(protocol,select,IPv4);",
+      "id": 276
+    }
+  ],
+  "https://lg.naukanet.ru/execute.php": [
+    {
+      "asn": 8641,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "id": 18
+    },
+    {
+      "asn": 8641,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router3);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router3);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router3);(dontlook,text,);",
+      "id": 19
+    }
+  ],
+  "http://plg.netcologne.de/lg/": [
+    {
+      "asn": 8422,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,Cologne);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,Cologne);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,Cologne);(protocol,select,IPv4);",
+      "id": 171
+    }
+  ],
+  "https://lg.nexsul.net.br/": [
+    {
+      "asn": 52694,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,router1);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,router1);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,router1);(protocol,select,ipv4);",
+      "id": 310
+    }
+  ],
+  "https://lg.isp.kh.ua/execute.php": [
+    {
+      "asn": 62206,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router2);(dontlook,text,);",
+      "id": 296
+    }
+  ],
+  "https://lg.atom86.net/execute.php": [
+    {
+      "asn": 8455,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,atoprt2ix8);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,atoprt2ix8);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,atoprt2ix8);(dontlook,text,);",
+      "id": 15
+    },
+    {
+      "asn": 8455,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,atoprt2nkf);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,atoprt2nkf);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,atoprt2nkf);(dontlook,text,);",
+      "id": 16
+    }
+  ],
+  "https://lg.smile-hosting.fr/execute.php": [
+    {
+      "asn": 13273,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,Equinix-IX);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,Equinix-IX);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,Equinix-IX);(dontlook,text,);",
+      "id": 788
+    }
+  ],
+  "https://lg.web4u.cz/execute.php": [
+    {
+      "asn": 39790,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,r2);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,r2);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,r2);(dontlook,text,);",
+      "id": 84
+    },
+    {
+      "asn": 39790,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,r1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,r1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,r1);(dontlook,text,);",
+      "id": 85
+    }
+  ],
+  "http://lg.mbix.ca/cgi-bin/bgplg": [
+    {
+      "asn": 395611,
+      "ping_cmd": "(cmd,select,ping);(req,text,);",
+      "bgp_cmd": "(cmd,select,show ip bgp);(req,text,);",
+      "trace_cmd": "(cmd,select,traceroute);(req,text,);",
+      "id": 148
+    }
+  ],
+  "http://lg.complexa.net.br/execute.php": [
+    {
+      "asn": 265117,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "id": 68
+    }
+  ],
+  "https://lg.fratec.net/execute.php": [
+    {
+      "asn": 262149,
+      "ping_cmd": "(query,select,ping);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "bgp_cmd": "(query,select,bgp);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "trace_cmd": "(query,select,traceroute);(parameter,text,);(routers,select,router1);(dontlook,text,);",
+      "id": 323
+    }
+  ],
+  "https://lg.bisv.ru/": [
+    {
+      "asn": 47586,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,br.sch0.bisv.net);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,br.sch0.bisv.net);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,br.sch0.bisv.net);",
+      "id": 311
+    }
+  ],
+  "http://lg.virtuaoperator.pl": [
+    {
+      "asn": 50606,
+      "ping_cmd": "(query,radio,ping);(addr,text,);(router,select,RS1 VirtuaOperator);(protocol,select,IPv4);",
+      "bgp_cmd": "(query,radio,bgp);(addr,text,);(router,select,RS1 VirtuaOperator);(protocol,select,IPv4);",
+      "trace_cmd": "(query,radio,trace);(addr,text,);(router,select,RS1 VirtuaOperator);(protocol,select,IPv4);",
+      "id": 413
+    }
+  ],
+  "https://lg.layersistem.com/": [
+    {
+      "asn": 59886,
+      "ping_cmd": "(command,radio,ping);(query,text,);(router,select,example1);(protocol,select,ipv4);",
+      "bgp_cmd": "(command,radio,bgp);(query,text,);(router,select,example1);(protocol,select,ipv4);",
+      "trace_cmd": "(command,radio,trace);(query,text,);(router,select,example1);(protocol,select,ipv4);",
+      "id": 324
+    }
+  ],
+  "https://lg.he.net/#": [
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.mil1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.mil1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.mil1.he.net);(raw,checkbox,1);",
+      "id": 425
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.bne1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.bne1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.bne1.he.net);(raw,checkbox,1);",
+      "id": 426
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core4.mrs1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core4.mrs1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core4.mrs1.he.net);(raw,checkbox,1);",
+      "id": 427
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ewr3.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ewr3.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ewr3.he.net);(raw,checkbox,1);",
+      "id": 428
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.sfo1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.sfo1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.sfo1.he.net);(raw,checkbox,1);",
+      "id": 429
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.man1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.man1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.man1.he.net);(raw,checkbox,1);",
+      "id": 430
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core4.lax2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core4.lax2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core4.lax2.he.net);(raw,checkbox,1);",
+      "id": 431
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.fra1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.fra1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.fra1.he.net);(raw,checkbox,1);",
+      "id": 432
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.chi3.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.chi3.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.chi3.he.net);(raw,checkbox,1);",
+      "id": 433
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.far1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.far1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.far1.he.net);(raw,checkbox,1);",
+      "id": 434
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.aus1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.aus1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.aus1.he.net);(raw,checkbox,1);",
+      "id": 435
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.atl1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.atl1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.atl1.he.net);(raw,checkbox,1);",
+      "id": 436
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.okc1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.okc1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.okc1.he.net);(raw,checkbox,1);",
+      "id": 437
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.nyc3.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.nyc3.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.nyc3.he.net);(raw,checkbox,1);",
+      "id": 438
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.den3.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.den3.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.den3.he.net);(raw,checkbox,1);",
+      "id": 439
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.mci4.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.mci4.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.mci4.he.net);(raw,checkbox,1);",
+      "id": 440
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.jax1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.jax1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.jax1.he.net);(raw,checkbox,1);",
+      "id": 441
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.bud2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.bud2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.bud2.he.net);(raw,checkbox,1);",
+      "id": 442
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.bcn1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.bcn1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.bcn1.he.net);(raw,checkbox,1);",
+      "id": 443
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.rst1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.rst1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.rst1.he.net);(raw,checkbox,1);",
+      "id": 444
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.bos1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.bos1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.bos1.he.net);(raw,checkbox,1);",
+      "id": 445
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.mel1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.mel1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.mel1.he.net);(raw,checkbox,1);",
+      "id": 446
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.mnz1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.mnz1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.mnz1.he.net);(raw,checkbox,1);",
+      "id": 447
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.dus1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.dus1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.dus1.he.net);(raw,checkbox,1);",
+      "id": 448
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core4.sjc2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core4.sjc2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core4.sjc2.he.net);(raw,checkbox,1);",
+      "id": 449
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.per1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.per1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.per1.he.net);(raw,checkbox,1);",
+      "id": 450
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.syd3.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.syd3.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.syd3.he.net);(raw,checkbox,1);",
+      "id": 451
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.yow1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.yow1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.yow1.he.net);(raw,checkbox,1);",
+      "id": 452
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.yqm1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.yqm1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.yqm1.he.net);(raw,checkbox,1);",
+      "id": 453
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.yhz1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.yhz1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.yhz1.he.net);(raw,checkbox,1);",
+      "id": 454
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.nyc4.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.nyc4.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.nyc4.he.net);(raw,checkbox,1);",
+      "id": 455
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.rix1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.rix1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.rix1.he.net);(raw,checkbox,1);",
+      "id": 456
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.oma1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.oma1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.oma1.he.net);(raw,checkbox,1);",
+      "id": 457
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.chi1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.chi1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.chi1.he.net);(raw,checkbox,1);",
+      "id": 458
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.pdx2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.pdx2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.pdx2.he.net);(raw,checkbox,1);",
+      "id": 459
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.hkg1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.hkg1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.hkg1.he.net);(raw,checkbox,1);",
+      "id": 460
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.par1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.par1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.par1.he.net);(raw,checkbox,1);",
+      "id": 461
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.muc1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.muc1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.muc1.he.net);(raw,checkbox,1);",
+      "id": 462
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.bog1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.bog1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.bog1.he.net);(raw,checkbox,1);",
+      "id": 463
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.sof1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.sof1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.sof1.he.net);(raw,checkbox,1);",
+      "id": 464
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.ber1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.ber1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.ber1.he.net);(raw,checkbox,1);",
+      "id": 465
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.mht1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.mht1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.mht1.he.net);(raw,checkbox,1);",
+      "id": 466
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.mso1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.mso1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.mso1.he.net);(raw,checkbox,1);",
+      "id": 467
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.sao1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.sao1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.sao1.he.net);(raw,checkbox,1);",
+      "id": 468
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.hnl1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.hnl1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.hnl1.he.net);(raw,checkbox,1);",
+      "id": 469
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.pao1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.pao1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.pao1.he.net);(raw,checkbox,1);",
+      "id": 470
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.buf1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.buf1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.buf1.he.net);(raw,checkbox,1);",
+      "id": 471
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.nyc7.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.nyc7.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.nyc7.he.net);(raw,checkbox,1);",
+      "id": 472
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.cmh1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.cmh1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.cmh1.he.net);(raw,checkbox,1);",
+      "id": 473
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.for1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.for1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.for1.he.net);(raw,checkbox,1);",
+      "id": 474
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.lba1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.lba1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.lba1.he.net);(raw,checkbox,1);",
+      "id": 475
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.edi1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.edi1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.edi1.he.net);(raw,checkbox,1);",
+      "id": 476
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.osl1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.osl1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.osl1.he.net);(raw,checkbox,1);",
+      "id": 477
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.atl2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.atl2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.atl2.he.net);(raw,checkbox,1);",
+      "id": 478
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.zrh3.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.zrh3.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.zrh3.he.net);(raw,checkbox,1);",
+      "id": 479
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.osa1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.osa1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.osa1.he.net);(raw,checkbox,1);",
+      "id": 480
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.par2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.par2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.par2.he.net);(raw,checkbox,1);",
+      "id": 481
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.mci1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.mci1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.mci1.he.net);(raw,checkbox,1);",
+      "id": 482
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.akl1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.akl1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.akl1.he.net);(raw,checkbox,1);",
+      "id": 483
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.yyc1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.yyc1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.yyc1.he.net);(raw,checkbox,1);",
+      "id": 484
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.nyc4.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.nyc4.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.nyc4.he.net);(raw,checkbox,1);",
+      "id": 485
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ymq1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ymq1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ymq1.he.net);(raw,checkbox,1);",
+      "id": 486
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.tor1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.tor1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.tor1.he.net);(raw,checkbox,1);",
+      "id": 487
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.ham1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.ham1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.ham1.he.net);(raw,checkbox,1);",
+      "id": 488
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.boi1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.boi1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.boi1.he.net);(raw,checkbox,1);",
+      "id": 489
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ist1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ist1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ist1.he.net);(raw,checkbox,1);",
+      "id": 490
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.dub1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.dub1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.dub1.he.net);(raw,checkbox,1);",
+      "id": 491
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.hou2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.hou2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.hou2.he.net);(raw,checkbox,1);",
+      "id": 492
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.tll1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.tll1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.tll1.he.net);(raw,checkbox,1);",
+      "id": 493
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.bri1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.bri1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.bri1.he.net);(raw,checkbox,1);",
+      "id": 494
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.ams1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.ams1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.ams1.he.net);(raw,checkbox,1);",
+      "id": 495
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.hkg2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.hkg2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.hkg2.he.net);(raw,checkbox,1);",
+      "id": 496
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.pdx1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.pdx1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.pdx1.he.net);(raw,checkbox,1);",
+      "id": 497
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.nyc5.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.nyc5.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.nyc5.he.net);(raw,checkbox,1);",
+      "id": 498
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ric1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ric1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ric1.he.net);(raw,checkbox,1);",
+      "id": 499
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.msn1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.msn1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.msn1.he.net);(raw,checkbox,1);",
+      "id": 500
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.yvr2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.yvr2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.yvr2.he.net);(raw,checkbox,1);",
+      "id": 501
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.slc1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.slc1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.slc1.he.net);(raw,checkbox,1);",
+      "id": 502
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.mba1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.mba1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.mba1.he.net);(raw,checkbox,1);",
+      "id": 503
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.dal1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.dal1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.dal1.he.net);(raw,checkbox,1);",
+      "id": 504
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.buh1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.buh1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.buh1.he.net);(raw,checkbox,1);",
+      "id": 505
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.mfe1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.mfe1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.mfe1.he.net);(raw,checkbox,1);",
+      "id": 506
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.waw1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.waw1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.waw1.he.net);(raw,checkbox,1);",
+      "id": 507
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.jib1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.jib1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.jib1.he.net);(raw,checkbox,1);",
+      "id": 508
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.nyc6.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.nyc6.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.nyc6.he.net);(raw,checkbox,1);",
+      "id": 509
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.dsm1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.dsm1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.dsm1.he.net);(raw,checkbox,1);",
+      "id": 510
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.rom1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.rom1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.rom1.he.net);(raw,checkbox,1);",
+      "id": 511
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.fmt2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.fmt2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.fmt2.he.net);(raw,checkbox,1);",
+      "id": 512
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.ash1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.ash1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.ash1.he.net);(raw,checkbox,1);",
+      "id": 513
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.cpt1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.cpt1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.cpt1.he.net);(raw,checkbox,1);",
+      "id": 514
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.orf2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.orf2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.orf2.he.net);(raw,checkbox,1);",
+      "id": 515
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.cys1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.cys1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.cys1.he.net);(raw,checkbox,1);",
+      "id": 516
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.crw1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.crw1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.crw1.he.net);(raw,checkbox,1);",
+      "id": 517
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ska1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ska1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ska1.he.net);(raw,checkbox,1);",
+      "id": 518
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.lon7.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.lon7.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.lon7.he.net);(raw,checkbox,1);",
+      "id": 519
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.rut1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.rut1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.rut1.he.net);(raw,checkbox,1);",
+      "id": 520
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.pit1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.pit1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.pit1.he.net);(raw,checkbox,1);",
+      "id": 521
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.yxe1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.yxe1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.yxe1.he.net);(raw,checkbox,1);",
+      "id": 522
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.ywg1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.ywg1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.ywg1.he.net);(raw,checkbox,1);",
+      "id": 523
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.orl1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.orl1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.orl1.he.net);(raw,checkbox,1);",
+      "id": 524
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.fra3.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.fra3.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.fra3.he.net);(raw,checkbox,1);",
+      "id": 525
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.rno1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.rno1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.rno1.he.net);(raw,checkbox,1);",
+      "id": 526
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ams5.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ams5.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ams5.he.net);(raw,checkbox,1);",
+      "id": 527
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.nyc1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.nyc1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.nyc1.he.net);(raw,checkbox,1);",
+      "id": 528
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.sea2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.sea2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.sea2.he.net);(raw,checkbox,1);",
+      "id": 529
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.sin2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.sin2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.sin2.he.net);(raw,checkbox,1);",
+      "id": 530
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.skg1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.skg1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.skg1.he.net);(raw,checkbox,1);",
+      "id": 531
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.pwm2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.pwm2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.pwm2.he.net);(raw,checkbox,1);",
+      "id": 532
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.mci3.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.mci3.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.mci3.he.net);(raw,checkbox,1);",
+      "id": 533
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.lon1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.lon1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.lon1.he.net);(raw,checkbox,1);",
+      "id": 534
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ewr2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ewr2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ewr2.he.net);(raw,checkbox,1);",
+      "id": 535
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.phx2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.phx2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.phx2.he.net);(raw,checkbox,1);",
+      "id": 536
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.sel2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.sel2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.sel2.he.net);(raw,checkbox,1);",
+      "id": 537
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.det1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.det1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.det1.he.net);(raw,checkbox,1);",
+      "id": 538
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.bts1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.bts1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.bts1.he.net);(raw,checkbox,1);",
+      "id": 539
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.yvr1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.yvr1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.yvr1.he.net);(raw,checkbox,1);",
+      "id": 540
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.clt1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.clt1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.clt1.he.net);(raw,checkbox,1);",
+      "id": 541
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.mil2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.mil2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.mil2.he.net);(raw,checkbox,1);",
+      "id": 542
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.tia1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.tia1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.tia1.he.net);(raw,checkbox,1);",
+      "id": 543
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.tpa1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.tpa1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.tpa1.he.net);(raw,checkbox,1);",
+      "id": 544
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.bna1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.bna1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.bna1.he.net);(raw,checkbox,1);",
+      "id": 545
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.bud1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.bud1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.bud1.he.net);(raw,checkbox,1);",
+      "id": 546
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.kul1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.kul1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.kul1.he.net);(raw,checkbox,1);",
+      "id": 547
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.ash1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.ash1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.ash1.he.net);(raw,checkbox,1);",
+      "id": 548
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.yeg1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.yeg1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.yeg1.he.net);(raw,checkbox,1);",
+      "id": 549
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.tor2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.tor2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.tor2.he.net);(raw,checkbox,1);",
+      "id": 550
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.jax2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.jax2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.jax2.he.net);(raw,checkbox,1);",
+      "id": 551
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.nbo1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.nbo1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.nbo1.he.net);(raw,checkbox,1);",
+      "id": 552
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.kbp1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.kbp1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.kbp1.he.net);(raw,checkbox,1);",
+      "id": 553
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.beg1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.beg1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.beg1.he.net);(raw,checkbox,1);",
+      "id": 554
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.pdx3.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.pdx3.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.pdx3.he.net);(raw,checkbox,1);",
+      "id": 555
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.sin1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.sin1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.sin1.he.net);(raw,checkbox,1);",
+      "id": 556
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ams3.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ams3.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ams3.he.net);(raw,checkbox,1);",
+      "id": 557
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.mad1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.mad1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.mad1.he.net);(raw,checkbox,1);",
+      "id": 558
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.vno1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.vno1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.vno1.he.net);(raw,checkbox,1);",
+      "id": 559
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.fsd1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.fsd1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.fsd1.he.net);(raw,checkbox,1);",
+      "id": 560
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.jnb1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.jnb1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.jnb1.he.net);(raw,checkbox,1);",
+      "id": 561
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.pnh1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.pnh1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.pnh1.he.net);(raw,checkbox,1);",
+      "id": 562
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.lon3.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.lon3.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.lon3.he.net);(raw,checkbox,1);",
+      "id": 563
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.pwm1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.pwm1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.pwm1.he.net);(raw,checkbox,1);",
+      "id": 564
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.los1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.los1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.los1.he.net);(raw,checkbox,1);",
+      "id": 565
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ewr4.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ewr4.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ewr4.he.net);(raw,checkbox,1);",
+      "id": 566
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ams7.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ams7.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ams7.he.net);(raw,checkbox,1);",
+      "id": 567
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.las1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.las1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.las1.he.net);(raw,checkbox,1);",
+      "id": 568
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.hou1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.hou1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.hou1.he.net);(raw,checkbox,1);",
+      "id": 569
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.lon9.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.lon9.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.lon9.he.net);(raw,checkbox,1);",
+      "id": 570
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.mnl2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.mnl2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.mnl2.he.net);(raw,checkbox,1);",
+      "id": 571
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.fra2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.fra2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.fra2.he.net);(raw,checkbox,1);",
+      "id": 572
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.skp1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.skp1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.skp1.he.net);(raw,checkbox,1);",
+      "id": 573
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.ewr1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.ewr1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.ewr1.he.net);(raw,checkbox,1);",
+      "id": 574
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.lax1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.lax1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.lax1.he.net);(raw,checkbox,1);",
+      "id": 575
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.gum1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.gum1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.gum1.he.net);(raw,checkbox,1);",
+      "id": 576
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.rio1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.rio1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.rio1.he.net);(raw,checkbox,1);",
+      "id": 577
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.mgm1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.mgm1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.mgm1.he.net);(raw,checkbox,1);",
+      "id": 578
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.bio1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.bio1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.bio1.he.net);(raw,checkbox,1);",
+      "id": 579
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ams8.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ams8.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ams8.he.net);(raw,checkbox,1);",
+      "id": 580
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.phx1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.phx1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.phx1.he.net);(raw,checkbox,1);",
+      "id": 581
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.par3.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.par3.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.par3.he.net);(raw,checkbox,1);",
+      "id": 582
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ktw1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ktw1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ktw1.he.net);(raw,checkbox,1);",
+      "id": 583
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.abq1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.abq1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.abq1.he.net);(raw,checkbox,1);",
+      "id": 584
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.zrh2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.zrh2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.zrh2.he.net);(raw,checkbox,1);",
+      "id": 585
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core4.dal1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core4.dal1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core4.dal1.he.net);(raw,checkbox,1);",
+      "id": 586
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.cph1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.cph1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.cph1.he.net);(raw,checkbox,1);",
+      "id": 587
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.sel1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.sel1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.sel1.he.net);(raw,checkbox,1);",
+      "id": 588
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.den1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.den1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.den1.he.net);(raw,checkbox,1);",
+      "id": 589
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.mia1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.mia1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.mia1.he.net);(raw,checkbox,1);",
+      "id": 590
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.dal2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.dal2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.dal2.he.net);(raw,checkbox,1);",
+      "id": 591
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.lax2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.lax2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.lax2.he.net);(raw,checkbox,1);",
+      "id": 592
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.tpe1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.tpe1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.tpe1.he.net);(raw,checkbox,1);",
+      "id": 593
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.lux1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.lux1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.lux1.he.net);(raw,checkbox,1);",
+      "id": 594
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.sjc2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.sjc2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.sjc2.he.net);(raw,checkbox,1);",
+      "id": 595
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.blp1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.blp1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.blp1.he.net);(raw,checkbox,1);",
+      "id": 596
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.vie1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.vie1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.vie1.he.net);(raw,checkbox,1);",
+      "id": 597
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.bru1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.bru1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.bru1.he.net);(raw,checkbox,1);",
+      "id": 598
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.zag2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.zag2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.zag2.he.net);(raw,checkbox,1);",
+      "id": 599
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.zag1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.zag1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.zag1.he.net);(raw,checkbox,1);",
+      "id": 600
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.prg1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.prg1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.prg1.he.net);(raw,checkbox,1);",
+      "id": 601
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.msp1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.msp1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.msp1.he.net);(raw,checkbox,1);",
+      "id": 602
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.lis1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.lis1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.lis1.he.net);(raw,checkbox,1);",
+      "id": 603
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ewr5.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ewr5.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ewr5.he.net);(raw,checkbox,1);",
+      "id": 604
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.cle1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.cle1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.cle1.he.net);(raw,checkbox,1);",
+      "id": 605
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core6.fmt2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core6.fmt2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core6.fmt2.he.net);(raw,checkbox,1);",
+      "id": 606
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.bue1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.bue1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.bue1.he.net);(raw,checkbox,1);",
+      "id": 607
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.stl1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.stl1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.stl1.he.net);(raw,checkbox,1);",
+      "id": 608
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.mel2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.mel2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.mel2.he.net);(raw,checkbox,1);",
+      "id": 609
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.nyc9.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.nyc9.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.nyc9.he.net);(raw,checkbox,1);",
+      "id": 610
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.nyc8.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.nyc8.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.nyc8.he.net);(raw,checkbox,1);",
+      "id": 611
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.lon2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.lon2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.lon2.he.net);(raw,checkbox,1);",
+      "id": 612
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.lon5.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.lon5.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.lon5.he.net);(raw,checkbox,1);",
+      "id": 613
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.lon6.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.lon6.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.lon6.he.net);(raw,checkbox,1);",
+      "id": 614
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.akl2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.akl2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.akl2.he.net);(raw,checkbox,1);",
+      "id": 615
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.yqb1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.yqb1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.yqb1.he.net);(raw,checkbox,1);",
+      "id": 616
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.chi1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.chi1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.chi1.he.net);(raw,checkbox,1);",
+      "id": 617
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ams4.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ams4.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ams4.he.net);(raw,checkbox,1);",
+      "id": 618
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.dvn1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.dvn1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.dvn1.he.net);(raw,checkbox,1);",
+      "id": 619
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.syd1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.syd1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.syd1.he.net);(raw,checkbox,1);",
+      "id": 620
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.bkk1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.bkk1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.bkk1.he.net);(raw,checkbox,1);",
+      "id": 621
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.sjc1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.sjc1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.sjc1.he.net);(raw,checkbox,1);",
+      "id": 622
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.dur1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.dur1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.dur1.he.net);(raw,checkbox,1);",
+      "id": 623
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.sac1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.sac1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.sac1.he.net);(raw,checkbox,1);",
+      "id": 624
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.phl1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.phl1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.phl1.he.net);(raw,checkbox,1);",
+      "id": 625
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ams2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ams2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ams2.he.net);(raw,checkbox,1);",
+      "id": 626
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.ber1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.ber1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.ber1.he.net);(raw,checkbox,1);",
+      "id": 627
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.gva1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.gva1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.gva1.he.net);(raw,checkbox,1);",
+      "id": 628
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.ath1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.ath1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.ath1.he.net);(raw,checkbox,1);",
+      "id": 629
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.lon2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.lon2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.lon2.he.net);(raw,checkbox,1);",
+      "id": 630
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.sto1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.sto1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.sto1.he.net);(raw,checkbox,1);",
+      "id": 631
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.tyo1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.tyo1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.tyo1.he.net);(raw,checkbox,1);",
+      "id": 632
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core3.fmt1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core3.fmt1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core3.fmt1.he.net);(raw,checkbox,1);",
+      "id": 633
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.sat1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.sat1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.sat1.he.net);(raw,checkbox,1);",
+      "id": 634
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.orf1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.orf1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.orf1.he.net);(raw,checkbox,1);",
+      "id": 635
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.cvg1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.cvg1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.cvg1.he.net);(raw,checkbox,1);",
+      "id": 636
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core1.bos2.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core1.bos2.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core1.bos2.he.net);(raw,checkbox,1);",
+      "id": 637
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.ind1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.ind1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.ind1.he.net);(raw,checkbox,1);",
+      "id": 638
+    },
+    {
+      "asn": 6939,
+      "ping_cmd": "(command,radio,ping);(ip,text,);(routers[],select,core2.sea1.he.net);(raw,checkbox,1);",
+      "bgp_cmd": "(command,radio,bgproute);(ip,text,);(routers[],select,core2.sea1.he.net);(raw,checkbox,1);",
+      "trace_cmd": "(command,radio,traceroute);(ip,text,);(routers[],select,core2.sea1.he.net);(raw,checkbox,1);",
+      "id": 639
+    }
+  ],
+  "https://net.dn.ua/noc/lg.php": [
+    {
+      "asn": 41039,
+      "ping_cmd": "(cmd,select,ping);(query,text,);",
+      "bgp_cmd": "(cmd,select,bgp);(query,text,);",
+      "trace_cmd": "(cmd,select,traceroute);(query,text,);",
+      "id": 295
+    }
+  ]
+}

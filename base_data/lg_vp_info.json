@@ -1,0 +1,4298 @@
+{
+    "36": [
+        "36",
+        "Host-Telecom s.r.o.",
+        "https://lg.host-telecom.com/lg/",
+        "9002",
+        "SE",
+        "Europe"
+    ],
+    "49": [
+        "49",
+        "NL1 (EQIX AM7)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "50": [
+        "50",
+        "TH1 (TCCT)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "51": [
+        "51",
+        "UK1 (Telehouse North)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "52": [
+        "52",
+        "DE1 (EQIX FR5)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "53": [
+        "53",
+        "VN (HCMC)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "54": [
+        "54",
+        "SG2 (Global Switch)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "55": [
+        "55",
+        "AU1 (NextDC P1)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "56": [
+        "56",
+        "AU2 (EQIX SY1)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "57": [
+        "57",
+        "LAX1 (Coresite LA1)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "58": [
+        "58",
+        "HK1 (MegaI)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "59": [
+        "59",
+        "SG3 (Equinix SG1)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "60": [
+        "60",
+        "PH1 (VM1)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "61": [
+        "61",
+        "NYC1 (Telx NYC2)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "62": [
+        "62",
+        "JP1 (EQIX TY2)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "63": [
+        "63",
+        "SG4 (1-Net East)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "64": [
+        "64",
+        "MY1 (AIMS)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "65": [
+        "65",
+        "SG1 (Epsilon)",
+        "http://network.sg.gs/lg/",
+        "24482",
+        "SG",
+        "Asia"
+    ],
+    "23": [
+        "23",
+        "Sydney [Equinix SY3]",
+        "https://lg.nexon.com.au/",
+        "17766",
+        "AU",
+        "Oceania"
+    ],
+    "24": [
+        "24",
+        "Perth [Perth IX]",
+        "https://lg.nexon.com.au/",
+        "17766",
+        "AU",
+        "Oceania"
+    ],
+    "25": [
+        "25",
+        "Sydney [Equinix SY2]",
+        "https://lg.nexon.com.au/",
+        "17766",
+        "AU",
+        "Oceania"
+    ],
+    "26": [
+        "26",
+        "Brisbane [NextDC B1]",
+        "https://lg.nexon.com.au/",
+        "17766",
+        "AU",
+        "Oceania"
+    ],
+    "27": [
+        "27",
+        "Melbourne [Equinix ME1]",
+        "https://lg.nexon.com.au/",
+        "17766",
+        "AU",
+        "Oceania"
+    ],
+    "264": [
+        "264",
+        "r1 (NIX1)",
+        "https://www.active24.cz/lg/lg.cgi",
+        "25234",
+        "CZ",
+        "Europe"
+    ],
+    "265": [
+        "265",
+        "r3 (NIX2)",
+        "https://www.active24.cz/lg/lg.cgi",
+        "25234",
+        "CZ",
+        "Europe"
+    ],
+    "333": [
+        "333",
+        "Waszyngton",
+        "https://lg.nazwa.pl/",
+        "15967",
+        "PL",
+        "Europe"
+    ],
+    "334": [
+        "334",
+        "Singapur",
+        "https://lg.nazwa.pl/",
+        "15967",
+        "PL",
+        "Europe"
+    ],
+    "335": [
+        "335",
+        "Gdańsk",
+        "https://lg.nazwa.pl/",
+        "15967",
+        "PL",
+        "Europe"
+    ],
+    "336": [
+        "336",
+        "Los Angeles",
+        "https://lg.nazwa.pl/",
+        "15967",
+        "PL",
+        "Europe"
+    ],
+    "337": [
+        "337",
+        "Warszawa",
+        "https://lg.nazwa.pl/",
+        "15967",
+        "PL",
+        "Europe"
+    ],
+    "338": [
+        "338",
+        "Madryt",
+        "https://lg.nazwa.pl/",
+        "15967",
+        "PL",
+        "Europe"
+    ],
+    "339": [
+        "339",
+        "Amsterdam",
+        "https://lg.nazwa.pl/",
+        "15967",
+        "PL",
+        "Europe"
+    ],
+    "340": [
+        "340",
+        "Poznań",
+        "https://lg.nazwa.pl/",
+        "15967",
+        "PL",
+        "Europe"
+    ],
+    "341": [
+        "341",
+        "Wrocław",
+        "https://lg.nazwa.pl/",
+        "15967",
+        "PL",
+        "Europe"
+    ],
+    "342": [
+        "342",
+        "Katowice",
+        "https://lg.nazwa.pl/",
+        "15967",
+        "PL",
+        "Europe"
+    ],
+    "266": [
+        "266",
+        "Amsterdam",
+        "https://webline.telenor.no/ping",
+        "2119",
+        "NO",
+        "Europe"
+    ],
+    "267": [
+        "267",
+        "Frankfurt",
+        "https://webline.telenor.no/ping",
+        "2119",
+        "NO",
+        "Europe"
+    ],
+    "268": [
+        "268",
+        "Gothenburg",
+        "https://webline.telenor.no/ping",
+        "2119",
+        "NO",
+        "Europe"
+    ],
+    "269": [
+        "269",
+        "Malmoe",
+        "https://webline.telenor.no/ping",
+        "2119",
+        "NO",
+        "Europe"
+    ],
+    "270": [
+        "270",
+        "London",
+        "https://webline.telenor.no/ping",
+        "2119",
+        "NO",
+        "Europe"
+    ],
+    "271": [
+        "271",
+        "Oslo-1",
+        "https://webline.telenor.no/ping",
+        "2119",
+        "NO",
+        "Europe"
+    ],
+    "272": [
+        "272",
+        "Oslo-2",
+        "https://webline.telenor.no/ping",
+        "2119",
+        "NO",
+        "Europe"
+    ],
+    "273": [
+        "273",
+        "Stockholm-1",
+        "https://webline.telenor.no/ping",
+        "2119",
+        "NO",
+        "Europe"
+    ],
+    "274": [
+        "274",
+        "Stockholm-2",
+        "https://webline.telenor.no/ping",
+        "2119",
+        "NO",
+        "Europe"
+    ],
+    "275": [
+        "275",
+        "Sundsvall",
+        "https://webline.telenor.no/ping",
+        "2119",
+        "NO",
+        "Europe"
+    ],
+    "385": [
+        "385",
+        "sf-cr-3 (AS 6802)",
+        "http://netmon.acad.bg/lg",
+        "6802",
+        "BG",
+        "Europe"
+    ],
+    "108": [
+        "108",
+        "Campo Grande/MS - Brazil",
+        "https://lg.flextel.net.br/execute.php",
+        "263959",
+        "BR",
+        "South America"
+    ],
+    "28": [
+        "28",
+        "StarNet BDO",
+        "http://tools.corpnet.net.id/lg",
+        "136106",
+        "ID",
+        "Asia"
+    ],
+    "29": [
+        "29",
+        "StarNet BOO",
+        "http://tools.corpnet.net.id/lg",
+        "136106",
+        "ID",
+        "Asia"
+    ],
+    "30": [
+        "30",
+        "StarNet BOO Router",
+        "http://tools.corpnet.net.id/lg",
+        "55699",
+        "ID",
+        "Asia"
+    ],
+    "390": [
+        "390",
+        "Ampere",
+        "http://lg.ampernet.com.br",
+        "28158",
+        "BR",
+        "South America"
+    ],
+    "391": [
+        "391",
+        "Pato Branco",
+        "http://lg.ampernet.com.br",
+        "28158",
+        "BR",
+        "South America"
+    ],
+    "392": [
+        "392",
+        "Beltrão",
+        "http://lg.ampernet.com.br",
+        "28158",
+        "BR",
+        "South America"
+    ],
+    "161": [
+        "161",
+        "AS61478 - Trinidad ISP",
+        "https://lg.airlinktt.co/execute.php",
+        "61478",
+        "TT",
+        "North America"
+    ],
+    "162": [
+        "162",
+        "AS264811 - Trinidad DC",
+        "https://lg.airlinktt.co/execute.php",
+        "264811",
+        "TT",
+        "North America"
+    ],
+    "163": [
+        "163",
+        "AS393434 - Miami DC",
+        "https://lg.airlinktt.co/execute.php",
+        "393434",
+        "US",
+        "North America"
+    ],
+    "318": [
+        "318",
+        "Warszawa",
+        "https://lg.exatel.pl/lg/",
+        "20804",
+        "PL",
+        "Europe"
+    ],
+    "160": [
+        "160",
+        "Daticum (Router 3)",
+        "https://lg.daticum.com/lg/",
+        "47748",
+        "BG",
+        "Europe"
+    ],
+    "212": [
+        "212",
+        "BinaryLane (Melbourne)",
+        "https://mel-lg.binarylane.cloud/ajax.php",
+        "133159",
+        "AU",
+        "Oceania"
+    ],
+    "102": [
+        "102",
+        "Cisco ASR-1002-b4",
+        "http://lg.yarnet.ru/",
+        "197078",
+        "RU",
+        "Europe"
+    ],
+    "103": [
+        "103",
+        "Cisco ASR-1002-b3",
+        "http://lg.yarnet.ru/",
+        "197078",
+        "RU",
+        "Europe"
+    ],
+    "104": [
+        "104",
+        "Cisco ASR-1002-02",
+        "http://lg.yarnet.ru/",
+        "197078",
+        "RU",
+        "Europe"
+    ],
+    "105": [
+        "105",
+        "Cisco ASR-1002-b2",
+        "http://lg.yarnet.ru/",
+        "20485",
+        "RU",
+        "Europe"
+    ],
+    "106": [
+        "106",
+        "Cisco ASR-1002-b1",
+        "http://lg.yarnet.ru/",
+        "20485",
+        "RU",
+        "Europe"
+    ],
+    "71": [
+        "71",
+        "BGP/Ping/Traceroute - Westin building, Floor 20, Seattle, WA",
+        "https://lg.opticfusion.net/execute.php",
+        "18530",
+        "US",
+        "North America"
+    ],
+    "72": [
+        "72",
+        "BGP/Ping/Traceroute - Perkins Building, Floor 4, Tacoma, WA",
+        "https://lg.opticfusion.net/execute.php",
+        "18530",
+        "US",
+        "North America"
+    ],
+    "317": [
+        "317",
+        "Okay-Telecom",
+        "https://lg.atlex.ru/lg/",
+        "9002",
+        "GB",
+        "Europe"
+    ],
+    "154": [
+        "154",
+        "Owentis RTR-EQ-PAR (AS 39444)",
+        "http://lg.owentis.com/execute.php",
+        "39444",
+        "FR",
+        "Europe"
+    ],
+    "155": [
+        "155",
+        "Owentis RTR-GS-PAR (AS 39444)",
+        "http://lg.owentis.com/execute.php",
+        "39444",
+        "FR",
+        "Europe"
+    ],
+    "156": [
+        "156",
+        "Owentis RTR-EQ-SGP-01 (AS 133959)",
+        "http://lg.owentis.com/execute.php",
+        "133959",
+        "FR",
+        "Europe"
+    ],
+    "136": [
+        "136",
+        "Stockholm (se-sthb)",
+        "http://lg.nordu.net/lg.cgi",
+        "2603",
+        "DK",
+        "Europe"
+    ],
+    "137": [
+        "137",
+        "Stockholm (se-tug2)",
+        "http://lg.nordu.net/lg.cgi",
+        "2603",
+        "DK",
+        "Europe"
+    ],
+    "138": [
+        "138",
+        "Frankfurt (de-ffm)",
+        "http://lg.nordu.net/lg.cgi",
+        "2603",
+        "DK",
+        "Europe"
+    ],
+    "139": [
+        "139",
+        "Copenhagen (dk-bal2)",
+        "http://lg.nordu.net/lg.cgi",
+        "2603",
+        "DK",
+        "Europe"
+    ],
+    "140": [
+        "140",
+        "Reykjavik (is-rey)",
+        "http://lg.nordu.net/lg.cgi",
+        "2603",
+        "DK",
+        "Europe"
+    ],
+    "141": [
+        "141",
+        "Ashburn (us-ash2)",
+        "http://lg.nordu.net/lg.cgi",
+        "2603",
+        "DK",
+        "Europe"
+    ],
+    "142": [
+        "142",
+        "Stockholm (se-tug)",
+        "http://lg.nordu.net/lg.cgi",
+        "2603",
+        "DK",
+        "Europe"
+    ],
+    "143": [
+        "143",
+        "Geneva (ch-gva)",
+        "http://lg.nordu.net/lg.cgi",
+        "2603",
+        "DK",
+        "Europe"
+    ],
+    "144": [
+        "144",
+        "Hong Kong (hk-chw)",
+        "http://lg.nordu.net/lg.cgi",
+        "2603",
+        "DK",
+        "Europe"
+    ],
+    "243": [
+        "243",
+        "Sweden - br1.lilj.as2116.net",
+        "http://lg.as2116.net/",
+        "2116",
+        "NO",
+        "Europe"
+    ],
+    "244": [
+        "244",
+        "Oslo - br1.fn3.as2116.net",
+        "http://lg.as2116.net/",
+        "2116",
+        "NO",
+        "Europe"
+    ],
+    "245": [
+        "245",
+        "Oslo - br1.osls.as2116.net",
+        "http://lg.as2116.net/",
+        "2116",
+        "NO",
+        "Europe"
+    ],
+    "246": [
+        "246",
+        "Sweden - br2.stcy.as2116.net",
+        "http://lg.as2116.net/",
+        "2116",
+        "NO",
+        "Europe"
+    ],
+    "46": [
+        "46",
+        "RUB Border Router 1",
+        "https://noc.rub.de/lg",
+        "12329",
+        "DE",
+        "Europe"
+    ],
+    "47": [
+        "47",
+        "RUB Border Router 2",
+        "https://noc.rub.de/lg",
+        "29484",
+        "DE",
+        "Europe"
+    ],
+    "325": [
+        "325",
+        "Garching",
+        "https://www.noc.dfn.de/lg/",
+        "680",
+        "DE",
+        "Europe"
+    ],
+    "5": [
+        "5",
+        "Moscow (M9)",
+        "https://lg.ip-max.net/execute.php",
+        "25091",
+        "CH",
+        "Europe"
+    ],
+    "6": [
+        "6",
+        "Zurich (NTT ZRH01 Zürich)",
+        "https://lg.ip-max.net/execute.php",
+        "25091",
+        "CH",
+        "Europe"
+    ],
+    "7": [
+        "7",
+        "Geneva (Equinix GV1)",
+        "https://lg.ip-max.net/execute.php",
+        "25091",
+        "CH",
+        "Europe"
+    ],
+    "8": [
+        "8",
+        "Frankfurt (Equinix FR5)",
+        "https://lg.ip-max.net/execute.php",
+        "25091",
+        "CH",
+        "Europe"
+    ],
+    "9": [
+        "9",
+        "Geneva (STACK GEN01 Geneva)",
+        "https://lg.ip-max.net/execute.php",
+        "25091",
+        "CH",
+        "Europe"
+    ],
+    "90": [
+        "90",
+        "city0 (AS 29488)",
+        "https://service.ccn.net/cgi-bin/lg.pl",
+        "13237",
+        "DE",
+        "Europe"
+    ],
+    "73": [
+        "73",
+        "HOSTKEY MSK [AS 50867] [Moscow R1]",
+        "https://lg.hostkey.net/execute.php",
+        "50867",
+        "NL",
+        "Europe"
+    ],
+    "74": [
+        "74",
+        "HOSTKEY MSK [AS 50867] [Moscow R2]",
+        "https://lg.hostkey.net/execute.php",
+        "50867",
+        "NL",
+        "Europe"
+    ],
+    "75": [
+        "75",
+        "HOSTKEY Finland [AS 57043] [Helsinki R1]",
+        "https://lg.hostkey.net/execute.php",
+        "57043",
+        "NL",
+        "Europe"
+    ],
+    "76": [
+        "76",
+        "HOSTKEY Finland [AS 57043] [Helsinki R2]",
+        "https://lg.hostkey.net/execute.php",
+        "57043",
+        "NL",
+        "Europe"
+    ],
+    "77": [
+        "77",
+        "HOSTKEY NL [AS 57043] [Amsterdam R2]",
+        "https://lg.hostkey.net/execute.php",
+        "57043",
+        "NL",
+        "Europe"
+    ],
+    "78": [
+        "78",
+        "HOSTKEY NL [AS 57043] [Amsterdam R1]",
+        "https://lg.hostkey.net/execute.php",
+        "57043",
+        "NL",
+        "Europe"
+    ],
+    "79": [
+        "79",
+        "HOSTKEY USA [AS 395839] [NewYork R1]",
+        "https://lg.hostkey.net/execute.php",
+        "395839",
+        "US",
+        "North America"
+    ],
+    "80": [
+        "80",
+        "HOSTKEY USA [AS 395839] [NewYork R2]",
+        "https://lg.hostkey.net/execute.php",
+        "395839",
+        "US",
+        "North America"
+    ],
+    "48": [
+        "48",
+        "jupiter.tks.sumy.ua",
+        "http://www.3net.sumy.ua/",
+        "41967",
+        "UA",
+        "Europe"
+    ],
+    "319": [
+        "319",
+        "ZAF West Coast Cape Town [AS 36994] (full IPv4 - ping/trace)",
+        "http://nsahome.vodansa.net/lg/",
+        "36994",
+        "ZA",
+        "Africa"
+    ],
+    "320": [
+        "320",
+        "ZAF Central Midrand [AS 36994] (full IPv4/6 - ping/trace)",
+        "http://nsahome.vodansa.net/lg/",
+        "36994",
+        "ZA",
+        "Africa"
+    ],
+    "173": [
+        "173",
+        "sthb-r11",
+        "https://lookingglass.sunet.se/lg.cgi",
+        "1653",
+        "SE",
+        "Europe"
+    ],
+    "174": [
+        "174",
+        "gbg7-r11",
+        "https://lookingglass.sunet.se/lg.cgi",
+        "1653",
+        "SE",
+        "Europe"
+    ],
+    "175": [
+        "175",
+        "fsn2-r11",
+        "https://lookingglass.sunet.se/lg.cgi",
+        "1653",
+        "SE",
+        "Europe"
+    ],
+    "176": [
+        "176",
+        "fln4-r11",
+        "https://lookingglass.sunet.se/lg.cgi",
+        "1653",
+        "SE",
+        "Europe"
+    ],
+    "177": [
+        "177",
+        "bos-r11",
+        "https://lookingglass.sunet.se/lg.cgi",
+        "1653",
+        "SE",
+        "Europe"
+    ],
+    "178": [
+        "178",
+        "gbg7-r12",
+        "https://lookingglass.sunet.se/lg.cgi",
+        "1653",
+        "SE",
+        "Europe"
+    ],
+    "179": [
+        "179",
+        "sthb-r12",
+        "https://lookingglass.sunet.se/lg.cgi",
+        "1653",
+        "SE",
+        "Europe"
+    ],
+    "22": [
+        "22",
+        "Sunrise Routeserver",
+        "http://debby.sunrise.ch/lg",
+        "6730",
+        "CH",
+        "Europe"
+    ],
+    "247": [
+        "247",
+        "lg-01-emg.za",
+        "https://lg.seacomnet.com/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "248": [
+        "248",
+        "lg-01-ams.nl",
+        "https://lg.seacomnet.com/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "249": [
+        "249",
+        "lg-01-lhr.uk",
+        "https://lg.seacomnet.com/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "250": [
+        "250",
+        "lg-01-fra.de",
+        "https://lg.seacomnet.com/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "251": [
+        "251",
+        "lg-01-jnb.za",
+        "https://lg.seacomnet.com/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "252": [
+        "252",
+        "lg-01-dar.tz",
+        "https://lg.seacomnet.com/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "253": [
+        "253",
+        "lg-01-nbo.ke",
+        "https://lg.seacomnet.com/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "254": [
+        "254",
+        "lg-01-mba.ke",
+        "https://lg.seacomnet.com/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "255": [
+        "255",
+        "lg-01-mpm.mz",
+        "https://lg.seacomnet.com/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "256": [
+        "256",
+        "lg-01-cpt.za",
+        "https://lg.seacomnet.com/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "257": [
+        "257",
+        "lg-02-lhr.uk",
+        "https://lg.seacomnet.com/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "258": [
+        "258",
+        "lg-01-dur.za",
+        "https://lg.seacomnet.com/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "259": [
+        "259",
+        "lg-01-mrs.fr",
+        "https://lg.seacomnet.com/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "298": [
+        "298",
+        "RT-Sao Pedro",
+        "https://lg.k2telecom.net.br/",
+        "53181",
+        "BR",
+        "South America"
+    ],
+    "299": [
+        "299",
+        "RT-Campos",
+        "https://lg.k2telecom.net.br/",
+        "53181",
+        "BR",
+        "South America"
+    ],
+    "300": [
+        "300",
+        "RT-Cachoeiro Itapimerim",
+        "https://lg.k2telecom.net.br/",
+        "53181",
+        "BR",
+        "South America"
+    ],
+    "301": [
+        "301",
+        "RT-BarraMansa",
+        "https://lg.k2telecom.net.br/",
+        "53181",
+        "BR",
+        "South America"
+    ],
+    "302": [
+        "302",
+        "RT-Guapimirim",
+        "https://lg.k2telecom.net.br/",
+        "53181",
+        "BR",
+        "South America"
+    ],
+    "241": [
+        "241",
+        "BinaryLane (Brisbane)",
+        "https://bne-lg.binarylane.cloud/ajax.php",
+        "133159",
+        "AU",
+        "Oceania"
+    ],
+    "387": [
+        "387",
+        "AS49453 [Global Layer - NL/Amsterdam02]",
+        "https://lg.maple-hosting.com/execute.php",
+        "49453",
+        "NL",
+        "Europe"
+    ],
+    "388": [
+        "388",
+        "AS49453 [Global Layer - NL/Amsterdam03]",
+        "https://lg.maple-hosting.com/execute.php",
+        "49453",
+        "NL",
+        "Europe"
+    ],
+    "389": [
+        "389",
+        "AS49453 [Global Layer - NL/Amsterdam01]",
+        "https://lg.maple-hosting.com/execute.php",
+        "49453",
+        "NL",
+        "Europe"
+    ],
+    "67": [
+        "67",
+        "NETIA",
+        "http://lg.netia.pl/",
+        "12741",
+        "PL",
+        "Europe"
+    ],
+    "393": [
+        "393",
+        "NETIA",
+        "http://lg.tktelekom.pl",
+        "12741",
+        "PL",
+        "Europe"
+    ],
+    "17": [
+        "17",
+        "Zap-SibTranstelecom (AS21127)",
+        "http://lg.zsttk.ru/index.php",
+        "21127",
+        "RU",
+        "Europe"
+    ],
+    "293": [
+        "293",
+        "AS262760-ICR01",
+        "https://www.76telecom.com.br/lg/",
+        "262760",
+        "BR",
+        "South America"
+    ],
+    "415": [
+        "415",
+        "BinaryLane (Perth)",
+        "https://per-lg.binarylane.cloud/ajax.php",
+        "133159",
+        "AU",
+        "Oceania"
+    ],
+    "416": [
+        "416",
+        "Juniper Router",
+        "http://dev.hsdn.org/lg/",
+        "7018",
+        "US",
+        "North America"
+    ],
+    "417": [
+        "417",
+        "Cisco Router 1",
+        "http://dev.hsdn.org/lg/",
+        "7474",
+        "AU",
+        "Oceania"
+    ],
+    "164": [
+        "164",
+        "Interxion,Glattbrugg,Switzerland",
+        "https://lg.ggamaur.net/",
+        "13030",
+        "CH",
+        "Europe"
+    ],
+    "165": [
+        "165",
+        "Colozuri,Zurich,Switzerland",
+        "https://lg.ggamaur.net/",
+        "21232",
+        "CH",
+        "Europe"
+    ],
+    "32": [
+        "32",
+        "Border Router, Telehouse 2, Paris, France (Juniper)",
+        "https://lg.luxnetwork.eu/execute.php",
+        "29467",
+        "LU",
+        "Europe"
+    ],
+    "312": [
+        "312",
+        "MSK",
+        "https://lg.ramtel.ru/",
+        "24638",
+        "RU",
+        "Europe"
+    ],
+    "343": [
+        "343",
+        "Petersburg-GIN-PE01",
+        "http://lg.gin.ru/",
+        "2854",
+        "RU",
+        "Europe"
+    ],
+    "344": [
+        "344",
+        "Moscow-GIN-PE03",
+        "http://lg.gin.ru/",
+        "2854",
+        "RU",
+        "Europe"
+    ],
+    "345": [
+        "345",
+        "Petersburg-GIN-PE02",
+        "http://lg.gin.ru/",
+        "2854",
+        "RU",
+        "Europe"
+    ],
+    "346": [
+        "346",
+        "Moscow-GIN-VRR01",
+        "http://lg.gin.ru/",
+        "2854",
+        "RU",
+        "Europe"
+    ],
+    "347": [
+        "347",
+        "Moscow09",
+        "http://lg.gin.ru/",
+        "2854",
+        "RU",
+        "Europe"
+    ],
+    "348": [
+        "348",
+        "Novosibirsk-GIN-PE03",
+        "http://lg.gin.ru/",
+        "2854",
+        "RU",
+        "Europe"
+    ],
+    "349": [
+        "349",
+        "Moscow-GIN-IX01",
+        "http://lg.gin.ru/",
+        "2854",
+        "RU",
+        "Europe"
+    ],
+    "170": [
+        "170",
+        "cr1.ty8.ty - Equinix TY8, Tokyo, Japan",
+        "https://lg.5gn.com.au",
+        "63956",
+        "AU",
+        "Oceania"
+    ],
+    "86": [
+        "86",
+        "Etisalat EmIX Singapore (AS8966) IPv4",
+        "http://lg.emix.net.ae/lg",
+        "8966",
+        "AE",
+        "Asia"
+    ],
+    "87": [
+        "87",
+        "Etisalat Dubai EmIX (AS8966) IPv4",
+        "http://lg.emix.net.ae/lg",
+        "8966",
+        "AE",
+        "Asia"
+    ],
+    "88": [
+        "88",
+        "Etisalat Dubai EmIX (AS8966) IPv6",
+        "http://lg.emix.net.ae/lg",
+        "8966",
+        "AE",
+        "Asia"
+    ],
+    "399": [
+        "399",
+        "lg-02-lhr.uk",
+        "http://safnog.net/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "400": [
+        "400",
+        "lg-01-cpt.za",
+        "http://safnog.net/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "401": [
+        "401",
+        "lg-01-fra.de",
+        "http://safnog.net/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "402": [
+        "402",
+        "lg-01-lhr.uk",
+        "http://safnog.net/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "403": [
+        "403",
+        "lg-01-ebb.ug",
+        "http://safnog.net/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "404": [
+        "404",
+        "lg-01-dur.za",
+        "http://safnog.net/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "405": [
+        "405",
+        "lg-01-nbo.ke",
+        "http://safnog.net/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "406": [
+        "406",
+        "lg-01-mpm.mz",
+        "http://safnog.net/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "407": [
+        "407",
+        "lg-01-dar.tz",
+        "http://safnog.net/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "408": [
+        "408",
+        "lg-01-ams.nl",
+        "http://safnog.net/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "409": [
+        "409",
+        "lg-01-mrs.fr",
+        "http://safnog.net/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "410": [
+        "410",
+        "lg-01-jnb.za",
+        "http://safnog.net/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "411": [
+        "411",
+        "lg-01-emg.za",
+        "http://safnog.net/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "412": [
+        "412",
+        "lg-01-mba.ke",
+        "http://safnog.net/",
+        "37100",
+        "MU",
+        "Africa"
+    ],
+    "307": [
+        "307",
+        "SG, Singapore - EQN 1, Equinix Singapore",
+        "http://lg.idola.net.id",
+        "2914",
+        "US",
+        "North America"
+    ],
+    "308": [
+        "308",
+        "SG, Singapore - EQN 2, Equinix Singapore",
+        "http://lg.idola.net.id",
+        "1299",
+        "SE",
+        "Europe"
+    ],
+    "309": [
+        "309",
+        "ID, Jakarta - TB Simatupang - Domestik",
+        "http://lg.idola.net.id",
+        "4800",
+        "ID",
+        "Asia"
+    ],
+    "418": [
+        "418",
+        "d2-msk-m9 Moscow",
+        "http://lg.ruscomnet.ru/",
+        "59589",
+        "RU",
+        "Europe"
+    ],
+    "419": [
+        "419",
+        "d2-hq Moscow",
+        "http://lg.ruscomnet.ru/",
+        "207645",
+        "GB",
+        "Europe"
+    ],
+    "95": [
+        "95",
+        "Moscow09",
+        "http://lg.rosprint.net/lg/",
+        "2854",
+        "RU",
+        "Europe"
+    ],
+    "96": [
+        "96",
+        "Petersburg-GIN-PE02",
+        "http://lg.rosprint.net/lg/",
+        "2854",
+        "RU",
+        "Europe"
+    ],
+    "97": [
+        "97",
+        "Moscow-GIN-IX01",
+        "http://lg.rosprint.net/lg/",
+        "2854",
+        "RU",
+        "Europe"
+    ],
+    "98": [
+        "98",
+        "Moscow-GIN-VRR01",
+        "http://lg.rosprint.net/lg/",
+        "2854",
+        "RU",
+        "Europe"
+    ],
+    "99": [
+        "99",
+        "Moscow-GIN-PE03",
+        "http://lg.rosprint.net/lg/",
+        "2854",
+        "RU",
+        "Europe"
+    ],
+    "100": [
+        "100",
+        "Petersburg-GIN-PE01",
+        "http://lg.rosprint.net/lg/",
+        "2854",
+        "RU",
+        "Europe"
+    ],
+    "101": [
+        "101",
+        "Novosibirsk-GIN-PE03",
+        "http://lg.rosprint.net/lg/",
+        "2854",
+        "RU",
+        "Europe"
+    ],
+    "297": [
+        "297",
+        "rs01 em Rio de Janeiro | Brasil",
+        "https://lg.jbinfo.com.br/execute.php",
+        "264923",
+        "BR",
+        "South America"
+    ],
+    "81": [
+        "81",
+        "lg01.rec.rainternet.com.br",
+        "https://lg.rainternet.com.br/",
+        "266136",
+        "BR",
+        "South America"
+    ],
+    "4": [
+        "4",
+        "BinaryLane (Singapore)",
+        "https://sin-lg.binarylane.cloud/ajax.php",
+        "133159",
+        "AU",
+        "Oceania"
+    ],
+    "211": [
+        "211",
+        "rt03",
+        "https://lg.beget.com/execute.php",
+        "198610",
+        "RU",
+        "Europe"
+    ],
+    "33": [
+        "33",
+        "M9_Border1",
+        "http://lg.unibit.ru",
+        "57304",
+        "RU",
+        "Europe"
+    ],
+    "34": [
+        "34",
+        "M9_Border2",
+        "http://lg.unibit.ru",
+        "57304",
+        "RU",
+        "Europe"
+    ],
+    "394": [
+        "394",
+        "Manila Looking Glass",
+        "https://lg.rise.ph/execute.php",
+        "137074",
+        "PH",
+        "Asia"
+    ],
+    "395": [
+        "395",
+        "Cebu Looking Glass",
+        "https://lg.rise.ph/execute.php",
+        "137074",
+        "PH",
+        "Asia"
+    ],
+    "0": [
+        "0",
+        "Network Platforms (London)",
+        "https://lg.as37497.net/execute.php",
+        "37497",
+        "ZA",
+        "Africa"
+    ],
+    "1": [
+        "1",
+        "Network Platforms (Durban)",
+        "https://lg.as37497.net/execute.php",
+        "37497",
+        "ZA",
+        "Africa"
+    ],
+    "2": [
+        "2",
+        "Network Platforms (Johannesburg)",
+        "https://lg.as37497.net/execute.php",
+        "37497",
+        "ZA",
+        "Africa"
+    ],
+    "3": [
+        "3",
+        "Cape Town Edge",
+        "https://lg.as37497.net/execute.php",
+        "37497",
+        "ZA",
+        "Africa"
+    ],
+    "217": [
+        "217",
+        "AS52404 POS",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "52404",
+        "AR",
+        "South America"
+    ],
+    "218": [
+        "218",
+        "AS52374 COR",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "52374",
+        "AR",
+        "South America"
+    ],
+    "219": [
+        "219",
+        "AS61521 JUJ",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "61521",
+        "AR",
+        "South America"
+    ],
+    "220": [
+        "220",
+        "AS61553 UAQ",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "61553",
+        "AR",
+        "South America"
+    ],
+    "221": [
+        "221",
+        "AS52375 LPL",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "52375",
+        "AR",
+        "South America"
+    ],
+    "222": [
+        "222",
+        "AS52359 SFE",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "52359",
+        "AR",
+        "South America"
+    ],
+    "223": [
+        "223",
+        "AS61495 JUN",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "61495",
+        "AR",
+        "South America"
+    ],
+    "224": [
+        "224",
+        "AS52508 NGB",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "52508",
+        "AR",
+        "South America"
+    ],
+    "225": [
+        "225",
+        "AS52332 BHB",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "52332",
+        "AR",
+        "South America"
+    ],
+    "226": [
+        "226",
+        "AS52370 DLC",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "52370",
+        "AR",
+        "South America"
+    ],
+    "227": [
+        "227",
+        "AS52324 ROS",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "52324",
+        "AR",
+        "South America"
+    ],
+    "228": [
+        "228",
+        "AS61441 BRC",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "61441",
+        "AR",
+        "South America"
+    ],
+    "229": [
+        "229",
+        "AS52294 NQN",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "52294",
+        "AR",
+        "South America"
+    ],
+    "230": [
+        "230",
+        "AS52509 SZP",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "52509",
+        "AR",
+        "South America"
+    ],
+    "231": [
+        "231",
+        "AS52500 PMY",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "52500",
+        "AR",
+        "South America"
+    ],
+    "232": [
+        "232",
+        "AS52360 MZA",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "52360",
+        "AR",
+        "South America"
+    ],
+    "233": [
+        "233",
+        "AS64104 RST",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "64104",
+        "AR",
+        "South America"
+    ],
+    "234": [
+        "234",
+        "AS61520 SLT-FRR",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "61520",
+        "AR",
+        "South America"
+    ],
+    "235": [
+        "235",
+        "AS52403 MDQ",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "52403",
+        "AR",
+        "South America"
+    ],
+    "236": [
+        "236",
+        "AS61504 PER",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "61504",
+        "AR",
+        "South America"
+    ],
+    "237": [
+        "237",
+        "AS61494 SLU",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "61494",
+        "AR",
+        "South America"
+    ],
+    "238": [
+        "238",
+        "AS52376 BUE-FRR IPv4",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "52376",
+        "AR",
+        "South America"
+    ],
+    "239": [
+        "239",
+        "AS61554 VDM-FRR",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "61554",
+        "AR",
+        "South America"
+    ],
+    "240": [
+        "240",
+        "AS64103 TDL-FRR",
+        "http://looking.cabase.org.ar/cgi-bin/lg.cgi",
+        "64103",
+        "AR",
+        "South America"
+    ],
+    "145": [
+        "145",
+        "TR-M9-MX204_2",
+        "http://lg.pinspb.ru/",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "146": [
+        "146",
+        "TR-BONCH-MX204",
+        "http://lg.pinspb.ru/",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "147": [
+        "147",
+        "PINVDS",
+        "http://lg.pinspb.ru/",
+        "50509",
+        "RU",
+        "Europe"
+    ],
+    "261": [
+        "261",
+        "US/MIAMI NOTA 1",
+        "https://as21351.mq/looking-glass/execute.php",
+        "21351",
+        "GP",
+        "North America"
+    ],
+    "262": [
+        "262",
+        "MF/SAINT MARTIN",
+        "https://as21351.mq/looking-glass/execute.php",
+        "21351",
+        "GP",
+        "North America"
+    ],
+    "263": [
+        "263",
+        "US/MIAMI NOTA 2",
+        "https://as21351.mq/looking-glass/execute.php",
+        "21351",
+        "GP",
+        "North America"
+    ],
+    "149": [
+        "149",
+        "alastyr",
+        "http://lg.alastyr.com/ajax.php",
+        "3188",
+        "TR",
+        "Asia"
+    ],
+    "397": [
+        "397",
+        "TELUS Edmonton Looking Glass Router",
+        "http://aurora.on.tac.net/",
+        "852",
+        "CA",
+        "North America"
+    ],
+    "398": [
+        "398",
+        "TELUS Toronto Looking Glass Router",
+        "http://aurora.on.tac.net/",
+        "852",
+        "CA",
+        "North America"
+    ],
+    "166": [
+        "166",
+        "marghera-core",
+        "http://lg.as28929.net/",
+        "28929",
+        "IT",
+        "Europe"
+    ],
+    "167": [
+        "167",
+        "bras-ve-07",
+        "http://lg.as28929.net/",
+        "28929",
+        "IT",
+        "Europe"
+    ],
+    "168": [
+        "168",
+        "vsix",
+        "http://lg.as28929.net/",
+        "28929",
+        "IT",
+        "Europe"
+    ],
+    "169": [
+        "169",
+        "pd-core",
+        "http://lg.as28929.net/",
+        "174",
+        "US",
+        "North America"
+    ],
+    "125": [
+        "125",
+        "BinaryLane (Sydney)",
+        "https://syd-lg.binarylane.cloud/ajax.php",
+        "133159",
+        "AU",
+        "Oceania"
+    ],
+    "89": [
+        "89",
+        "RR",
+        "https://www.signaltv.net/lg/",
+        "42514",
+        "RU",
+        "Europe"
+    ],
+    "82": [
+        "82",
+        "Router KOM",
+        "http://lg.nask.pl/",
+        "8308",
+        "PL",
+        "Europe"
+    ],
+    "83": [
+        "83",
+        "Router EDU",
+        "http://lg.nask.pl/",
+        "1887",
+        "PL",
+        "Europe"
+    ],
+    "423": [
+        "423",
+        "TELUS Toronto Looking Glass Router",
+        "http://lg.telus.com",
+        "852",
+        "CA",
+        "North America"
+    ],
+    "424": [
+        "424",
+        "TELUS Edmonton Looking Glass Router",
+        "http://lg.telus.com",
+        "852",
+        "CA",
+        "North America"
+    ],
+    "107": [
+        "107",
+        "as29140",
+        "https://www.as29140.net/cgi-bin/bgplg",
+        "29140",
+        "DE",
+        "Europe"
+    ],
+    "94": [
+        "94",
+        "ipv4",
+        "http://glass.cprm.net/output.php",
+        "8657",
+        "PT",
+        "Europe"
+    ],
+    "260": [
+        "260",
+        "datahata",
+        "https://lg.datahata.by/cgi-bin/bgplg",
+        "56740",
+        "BY",
+        "Europe"
+    ],
+    "242": [
+        "242",
+        "DELTA.BG",
+        "https://lg.delta.bg/check",
+        "3257",
+        "US",
+        "North America"
+    ],
+    "66": [
+        "66",
+        "Contato",
+        "http://lg.contato.net/cgi-bin/bgplg",
+        "28642",
+        "BR",
+        "South America"
+    ],
+    "120": [
+        "120",
+        "swiEZ3.switch.ch",
+        "http://lg.lan.switch.ch/lg/lg.cgi",
+        "559",
+        "CH",
+        "Europe"
+    ],
+    "121": [
+        "121",
+        "swiCE2.switch.ch",
+        "http://lg.lan.switch.ch/lg/lg.cgi",
+        "559",
+        "CH",
+        "Europe"
+    ],
+    "122": [
+        "122",
+        "swiKR2.switch.ch",
+        "http://lg.lan.switch.ch/lg/lg.cgi",
+        "559",
+        "CH",
+        "Europe"
+    ],
+    "123": [
+        "123",
+        "swiBA3.switch.ch",
+        "http://lg.lan.switch.ch/lg/lg.cgi",
+        "559",
+        "CH",
+        "Europe"
+    ],
+    "124": [
+        "124",
+        "swiZH3.switch.ch",
+        "http://lg.lan.switch.ch/lg/lg.cgi",
+        "559",
+        "CH",
+        "Europe"
+    ],
+    "277": [
+        "277",
+        "Brisbane, Equinix BR1, AU",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "278": [
+        "278",
+        "Perth, NextDC P1, AU",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "279": [
+        "279",
+        "Canberra, NextDC C1, AU",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "280": [
+        "280",
+        "Melbourne, Vocus VDC3, AU",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "281": [
+        "281",
+        "Singapore, Equinx SG3, SG",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "282": [
+        "282",
+        "Melbourne, Equinix ME1, AU",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "283": [
+        "283",
+        "Perth, Equinix PE2, AU",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "284": [
+        "284",
+        "Sydney, Equinix SY1, AU",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "285": [
+        "285",
+        "Darwin, SecureDC, AU",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "286": [
+        "286",
+        "Auckland, 220QueenDC, NZ",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "287": [
+        "287",
+        "Hobart, 7HOB POI, AU",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "288": [
+        "288",
+        "Primary Route Reflector",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "289": [
+        "289",
+        "Brisbane, NextDC B1, AU",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "290": [
+        "290",
+        "Melbourne, NextDC M1, AU",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "291": [
+        "291",
+        "Sydney, NextDC S1, AU",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "24516",
+        "AU",
+        "Oceania"
+    ],
+    "292": [
+        "292",
+        "Los Angeles, Coresite LA1, US",
+        "http://tools.virtutel.com.au/lg/lg.cgi",
+        "3491",
+        "US",
+        "North America"
+    ],
+    "118": [
+        "118",
+        "Riga IC2",
+        "https://lg.tet.lv/",
+        "12578",
+        "LV",
+        "Europe"
+    ],
+    "119": [
+        "119",
+        "Riga IC1",
+        "https://lg.tet.lv/",
+        "12578",
+        "LV",
+        "Europe"
+    ],
+    "31": [
+        "31",
+        "marwan noc, rabat",
+        "http://lg.marwan.ma/execute.php",
+        "30983",
+        "MA",
+        "Africa"
+    ],
+    "315": [
+        "315",
+        "RDF",
+        "https://rdfnet.com.br/lg/execute.php",
+        "53139",
+        "BR",
+        "South America"
+    ],
+    "180": [
+        "180",
+        "ams-equ-cr1",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "181": [
+        "181",
+        "chu-ds-cr2.rascom.ru",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "182": [
+        "182",
+        "busl-abk-cr2.rascom.ru",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "183": [
+        "183",
+        "bol-dc-cr2.rascom.ru",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "184": [
+        "184",
+        "spb-sel-cr2.rascom.ru(Selectel/Cvt 19)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "185": [
+        "185",
+        "tver-ds-cr2.rascom.ru",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "186": [
+        "186",
+        "hel-rk5-cr2.rascom.ru(Uutiskatu 5)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "187": [
+        "187",
+        "spb-linx-cr1.rascom.ru(Linx)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "188": [
+        "188",
+        "stk-tct-cr3.rascom.ru",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "189": [
+        "189",
+        "ams-equ-cr3.rascom.ru(AM2/Equinix)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "190": [
+        "190",
+        "tbs-cl9-cr1.rascom.ru",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "191": [
+        "191",
+        "msk-m9-cr5.rascom.ru(M9)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "192": [
+        "192",
+        "stk-tct-cr1.rascom.ru(SK1/Equinix/Telecity)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "193": [
+        "193",
+        "frm-nt-cr2.rascom.ru(Itenos)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "194": [
+        "194",
+        "stk-ixn-cr2.rascom.ru(STO1/DLR/Interxion)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "195": [
+        "195",
+        "spb-ivc-cr3.rascom.ru(Borovaya 57)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "196": [
+        "196",
+        "msk-3v-cr1",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "197": [
+        "197",
+        "spb-bm18-cr1.rascom.ru(BM18)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "198": [
+        "198",
+        "msk-m9-cr1",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "199": [
+        "199",
+        "spb-ivc-cr2.rascom.ru(Borovaya 57)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "200": [
+        "200",
+        "spb-sel-cr1.rascom.ru(Selectel/Cvt 21)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "201": [
+        "201",
+        "msk-dtl-cr1.rascom.ru(DataLine NORD)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "202": [
+        "202",
+        "frm-nt-cr3.rascom.ru(Itenos)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "203": [
+        "203",
+        "msk-m9-cr3.rascom.ru(M9)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "204": [
+        "204",
+        "hel-rk5-cr1.rascom.ru(Uutiskatu 5)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "205": [
+        "205",
+        "klin-ds-cr2.rascom.ru",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "206": [
+        "206",
+        "spb-imq-cr1.rascom.ru(Imaqliq)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "207": [
+        "207",
+        "msk-bor7-cr1.rascom.ru(DataLine OST)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "208": [
+        "208",
+        "spb-mir-cr1.rascom.ru(Miran)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "209": [
+        "209",
+        "spb-r2-cr1.rascom.ru(K12-s.3)",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "210": [
+        "210",
+        "stk-tct-cr2.rascom.ru",
+        "http://lg.rascom.ru/",
+        "20764",
+        "RU",
+        "Europe"
+    ],
+    "786": [
+        "786",
+        "Johannesburg (ZA), CR-01-JHB",
+        "https://lg.as328112.net/",
+        "328112",
+        "ZA",
+        "Africa"
+    ],
+    "787": [
+        "787",
+        "CapeTown (ZA), CR-01-CPT",
+        "https://lg.as328112.net/",
+        "328112",
+        "ZA",
+        "Africa"
+    ],
+    "276": [
+        "276",
+        "border-gw-m10",
+        "https://mosnet.ru/lg/",
+        "8641",
+        "RU",
+        "Europe"
+    ],
+    "313": [
+        "313",
+        "Cape Town, ZA",
+        "https://lg.datakeepers.net/",
+        "328170",
+        "ZA",
+        "Africa"
+    ],
+    "314": [
+        "314",
+        "Johannesburg, ZA",
+        "https://lg.datakeepers.net/",
+        "328170",
+        "ZA",
+        "Africa"
+    ],
+    "18": [
+        "18",
+        "MSK :: M10 :: Nautilus",
+        "https://lg.naukanet.ru/execute.php",
+        "8641",
+        "RU",
+        "Europe"
+    ],
+    "19": [
+        "19",
+        "MSK :: M9 :: Atlant",
+        "https://lg.naukanet.ru/execute.php",
+        "8641",
+        "RU",
+        "Europe"
+    ],
+    "171": [
+        "171",
+        "Cologne",
+        "http://plg.netcologne.de/lg/",
+        "8422",
+        "DE",
+        "Europe"
+    ],
+    "310": [
+        "310",
+        "Estrela-RS",
+        "https://lg.nexsul.net.br/",
+        "52694",
+        "BR",
+        "South America"
+    ],
+    "296": [
+        "296",
+        "\"KHARKIV ONLINE\" AS196957: GATE1 (Roter for WORLD ans IX traffic)",
+        "https://lg.isp.kh.ua/execute.php",
+        "62206",
+        "UA",
+        "Europe"
+    ],
+    "15": [
+        "15",
+        "atoprt2ix8",
+        "https://lg.atom86.net/execute.php",
+        "8455",
+        "NL",
+        "Europe"
+    ],
+    "16": [
+        "16",
+        "atoprt2nkf",
+        "https://lg.atom86.net/execute.php",
+        "8455",
+        "NL",
+        "Europe"
+    ],
+    "788": [
+        "788",
+        "AS13273 - Paris",
+        "https://lg.smile-hosting.fr/execute.php",
+        "13273",
+        "FR",
+        "Europe"
+    ],
+    "84": [
+        "84",
+        "web4u (R1)",
+        "https://lg.web4u.cz/execute.php",
+        "39790",
+        "CZ",
+        "Europe"
+    ],
+    "85": [
+        "85",
+        "web4u (R2)",
+        "https://lg.web4u.cz/execute.php",
+        "39790",
+        "CZ",
+        "Europe"
+    ],
+    "148": [
+        "148",
+        "MBIX",
+        "http://lg.mbix.ca/cgi-bin/bgplg",
+        "395611",
+        "CA",
+        "North America"
+    ],
+    "68": [
+        "68",
+        "Border, Paranaguá, Brazil - Mikrotik",
+        "http://lg.complexa.net.br/execute.php",
+        "265117",
+        "BR",
+        "South America"
+    ],
+    "323": [
+        "323",
+        "Router Quagga 0.99.22.4, Curridabat, Costa Rica",
+        "https://lg.fratec.net/execute.php",
+        "262149",
+        "CR",
+        "North America"
+    ],
+    "311": [
+        "311",
+        "br.sch0.bisv.net",
+        "https://lg.bisv.ru/",
+        "47586",
+        "RU",
+        "Europe"
+    ],
+    "413": [
+        "413",
+        "RS1 VirtuaOperator",
+        "http://lg.virtuaoperator.pl",
+        "50606",
+        "PL",
+        "Europe"
+    ],
+    "414": [
+        "414",
+        "Hefei Router 210.45.231.2",
+        "https://noc.ah.edu.cn/lg",
+        "4538",
+        "CN",
+        "Asia"
+    ],
+    "324": [
+        "324",
+        "LS Router",
+        "https://lg.layersistem.com/",
+        "59886",
+        "TR",
+        "Asia"
+    ],
+    "425": [
+        "425",
+        "core2.mil1.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "426": [
+        "426",
+        "NEXTDC B1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "427": [
+        "427",
+        "Digital Realty MRS1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "428": [
+        "428",
+        "QTS Data Centers PNJ1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "429": [
+        "429",
+        "Digital Realty SFO10 (200 Paul)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "430": [
+        "430",
+        "Equinix MA1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "431": [
+        "431",
+        "CoreSite One Wilshire",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "432": [
+        "432",
+        "Digital Realty FRA1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "433": [
+        "433",
+        "CoreSite Chicago",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "434": [
+        "434",
+        "702 Communications",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "435": [
+        "435",
+        "Switch Data Foundry 01",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "436": [
+        "436",
+        "Digital Realty ATL13 (56 Marietta)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "437": [
+        "437",
+        "RACK59 Data Center",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "438": [
+        "438",
+        "Digital Realty JFK13 (32 Avenue of the Americas)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "439": [
+        "439",
+        "910Telecom",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "440": [
+        "440",
+        "NOCIX 1530 Swift",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "441": [
+        "441",
+        "SBA Edge",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "442": [
+        "442",
+        "Dataplex",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "443": [
+        "443",
+        "core2.bcn1.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "444": [
+        "444",
+        "Zayo NP",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "445": [
+        "445",
+        "One Summer Boston",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "446": [
+        "446",
+        "Equinix ME1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "447": [
+        "447",
+        "core1.mnz1.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "448": [
+        "448",
+        "Digital Realty DUS1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "449": [
+        "449",
+        "Equinix San Jose (SV1)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "450": [
+        "450",
+        "NEXTDC P1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "451": [
+        "451",
+        "NEXTDC S1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "452": [
+        "452",
+        "PureColo",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "453": [
+        "453",
+        "Fibre Centre Moncton",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "454": [
+        "454",
+        "EXA",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "455": [
+        "455",
+        "Equinix New York (NY9)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "456": [
+        "456",
+        "LVRTC TV Tower",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "457": [
+        "457",
+        "1623 Farnam Omaha",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "458": [
+        "458",
+        "Equinix Chicago (CH1/CH2)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "459": [
+        "459",
+        "EdgeConneX POR01",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "460": [
+        "460",
+        "MEGA-iAdvantage Hong Kong",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "461": [
+        "461",
+        "Digital Realty PAR2",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "462": [
+        "462",
+        "Equinix Munich (MU1)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "463": [
+        "463",
+        "Equinix BG1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "464": [
+        "464",
+        "Telepoint Colocation",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "465": [
+        "465",
+        "IPB CarrierColo Berlin",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "466": [
+        "466",
+        "Crown Castle One Sundial",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "467": [
+        "467",
+        "iConnect Missoula",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "468": [
+        "468",
+        "Equinix Sao Paulo (SP2)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "469": [
+        "469",
+        "DRFortress Honolulu",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "470": [
+        "470",
+        "Equinix Palo Alto (SV8)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "471": [
+        "471",
+        "365 Data Centers BU1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "472": [
+        "472",
+        "core1.nyc7.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "473": [
+        "473",
+        "core2.cmh1.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "474": [
+        "474",
+        "GlobeNet",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "475": [
+        "475",
+        "core1.lba1.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "476": [
+        "476",
+        "Pulsant SC-1 (South Gyle)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "477": [
+        "477",
+        "STACK Infrastructure / Digiplex Norway",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "478": [
+        "478",
+        "CoreSite AT1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "479": [
+        "479",
+        "Equinix ZÃ¼rich (ZH4)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "480": [
+        "480",
+        "Equinix Osaka (OS1)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "481": [
+        "481",
+        "Telehouse Paris Voltaire",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "482": [
+        "482",
+        "core2.mci1.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "483": [
+        "483",
+        "DataCentre220",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "484": [
+        "484",
+        "Datahive Calgary",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "485": [
+        "485",
+        "Equinix New York (NY9)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "486": [
+        "486",
+        "Cologix Montreal / CANIX 3",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "487": [
+        "487",
+        "Equinix Toronto (TR1)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "488": [
+        "488",
+        "GlobalConnect HAM2",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "489": [
+        "489",
+        "ark data centers",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "490": [
+        "490",
+        "Equinix IL2",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "491": [
+        "491",
+        "Equinix Dublin (DB2)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "492": [
+        "492",
+        "Netrality 1301 Fannin Houston",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "493": [
+        "493",
+        "Elion Tallinn",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "494": [
+        "494",
+        "Namex",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "495": [
+        "495",
+        "NIKHEF Amsterdam",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "496": [
+        "496",
+        "Equinix Hong Kong (HK1)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "497": [
+        "497",
+        "Pittock Bloock",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "498": [
+        "498",
+        "Digital Realty JFK12 (60 Hudson)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "499": [
+        "499",
+        "Pixel Factory",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "500": [
+        "500",
+        "5NINES Madison",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "501": [
+        "501",
+        "Harbour Centre MMR",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "502": [
+        "502",
+        "Databank / C7 Salt Lake City",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "503": [
+        "503",
+        "icolo.io Mombasa One",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "504": [
+        "504",
+        "Equinix Dallas (DA1)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "505": [
+        "505",
+        "core2.buh1.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "506": [
+        "506",
+        "McAllen Data Centers",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "507": [
+        "507",
+        "Equinix WA1 Warsaw, 1-IX EU",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "508": [
+        "508",
+        "core1.jib1.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "509": [
+        "509",
+        "Telehouse New York, Chelsea",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "510": [
+        "510",
+        "Cologix DSM1 / Connect Des Moines",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "511": [
+        "511",
+        "NaMeX Rome",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "512": [
+        "512",
+        "Hurricane Electric Fremont 2",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "513": [
+        "513",
+        "core2.ash1.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "514": [
+        "514",
+        "Teraco CT1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "515": [
+        "515",
+        "core1.orf2.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "516": [
+        "516",
+        "Range Cheyenne",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "517": [
+        "517",
+        "Alpha Technologies DC1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "518": [
+        "518",
+        "Neutron",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "519": [
+        "519",
+        "Global Switch London East",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "520": [
+        "520",
+        "VELCO VT1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "521": [
+        "521",
+        "DataBank PIT1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "522": [
+        "522",
+        "University of Saskatchewan",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "523": [
+        "523",
+        "Global Server Center",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "524": [
+        "524",
+        "CoreSite OR1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "525": [
+        "525",
+        "Equinix FR2",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "526": [
+        "526",
+        "Roller Network Reno",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "527": [
+        "527",
+        "Digital Realty AMS9",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "528": [
+        "528",
+        "Webair NY1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "529": [
+        "529",
+        "Westin Building",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "530": [
+        "530",
+        "Global Switch Tai Seng",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "531": [
+        "531",
+        "Balkan Gate",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "532": [
+        "532",
+        "CENTRA / Deep Edge PWM",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "533": [
+        "533",
+        "1102 Grand Kansas City",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "534": [
+        "534",
+        "Telehouse Docklands East",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "535": [
+        "535",
+        "Equinix NY5",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "536": [
+        "536",
+        "PhoenixNAP",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "537": [
+        "537",
+        "Equinix SL1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "538": [
+        "538",
+        "123NET Detroit",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "539": [
+        "539",
+        "Sitel",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "540": [
+        "540",
+        "Cologix Vancouver",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "541": [
+        "541",
+        "Lumos / DC74 Data Center CLT-2 Charlotte",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "542": [
+        "542",
+        "Retelit Avalon 1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "543": [
+        "543",
+        "ANIX",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "544": [
+        "544",
+        "365 Data Centers TA1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "545": [
+        "545",
+        "365 Data Centers NA1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "546": [
+        "546",
+        "Victor Hugo 1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "547": [
+        "547",
+        "AIMS",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "548": [
+        "548",
+        "Equinix Ashburn (DC2)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "549": [
+        "549",
+        "core2.yeg1.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "550": [
+        "550",
+        "Cologix Toronto",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "551": [
+        "551",
+        "Cologix JAX1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "552": [
+        "552",
+        "Africa Data Centres NBO1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "553": [
+        "553",
+        "NewTelco Ukraine",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "554": [
+        "554",
+        "CETIN / Telenor",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "555": [
+        "555",
+        "Flexential PDX02 Hillsboro 2",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "556": [
+        "556",
+        "Equinix Singapore (SG1)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "557": [
+        "557",
+        "Digital Realty AMS8",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "558": [
+        "558",
+        "core1.mad1.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "559": [
+        "559",
+        "Data Logistics Center",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "560": [
+        "560",
+        "SDN Communications",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "561": [
+        "561",
+        "Teraco JB1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "562": [
+        "562",
+        "Cambodia CNX",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "563": [
+        "563",
+        "core2.lon3.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "564": [
+        "564",
+        "Firstlight Fiber Regen Hut",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "565": [
+        "565",
+        "Rack Centre",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "566": [
+        "566",
+        "Iron Mountain NJE-1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "567": [
+        "567",
+        "Iron Mountain AMS-1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "568": [
+        "568",
+        "Fiberhub Las Vegas",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "569": [
+        "569",
+        "Consolidated Houston",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "570": [
+        "570",
+        "Iron Mountain LON-1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "571": [
+        "571",
+        "PLDT VITRO Makati 1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "572": [
+        "572",
+        "Equinix Frankfurt (FR1)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "573": [
+        "573",
+        "Telesmart DC Skopje",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "574": [
+        "574",
+        "165 Halsey MMR - Tishman",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "575": [
+        "575",
+        "Equinix Los Angeles (LA1)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "576": [
+        "576",
+        "UoG - Office of Information Technology",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "577": [
+        "577",
+        "Equinix RJ2",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "578": [
+        "578",
+        "RSA Dexter Montgomery",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "579": [
+        "579",
+        "Telxius Derio Hub",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "580": [
+        "580",
+        "Digital Realty AMS17 (Science Park 120)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "581": [
+        "581",
+        "Digital Realty PHX10 (120 East Van Buren)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "582": [
+        "582",
+        "Equinix Paris (PA2)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "583": [
+        "583",
+        "4 Data Center",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "584": [
+        "584",
+        "H5 Data Centers ABQ 1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "585": [
+        "585",
+        "Digital Realty ZUR1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "586": [
+        "586",
+        "Equinix Dallas (DA1)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "587": [
+        "587",
+        "core2.cph1.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "588": [
+        "588",
+        "KINX Dogok",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "589": [
+        "589",
+        "CoreSite Denver",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "590": [
+        "590",
+        "Equinix MI1 Miami",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "591": [
+        "591",
+        "Cologix DAL1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "592": [
+        "592",
+        "CoreSite One Wilshire",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "593": [
+        "593",
+        "Chief LY Building",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "594": [
+        "594",
+        "LuxConnect DC1.1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "595": [
+        "595",
+        "Equinix San Jose (SV1)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "596": [
+        "596",
+        "Zayo NP MSP1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "597": [
+        "597",
+        "Digital Realty VIE1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "598": [
+        "598",
+        "Digital Realty BRU1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "599": [
+        "599",
+        "Digital Realty ZAG1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "600": [
+        "600",
+        "University of Zagreb, University Computing Centre SRCE",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "601": [
+        "601",
+        "CE Colo Prague",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "602": [
+        "602",
+        "Cologix Minneapolis",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "603": [
+        "603",
+        "core2.lis1.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "604": [
+        "604",
+        "NJFX",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "605": [
+        "605",
+        "H5 Data Centers CLE 1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "606": [
+        "606",
+        "Hurricane Electric Fremont 2",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "607": [
+        "607",
+        "SYT Buenos Aires",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "608": [
+        "608",
+        "Netrality 210 N Tucker St. Louis",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "609": [
+        "609",
+        "NEXTDC M1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "610": [
+        "610",
+        "Telehouse Teleport Center",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "611": [
+        "611",
+        "CoreSite NY1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "612": [
+        "612",
+        "Equinix London (LD8)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "613": [
+        "613",
+        "Equinix LD5",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "614": [
+        "614",
+        "Digital Realty LON1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "615": [
+        "615",
+        "2degrees Albany",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "616": [
+        "616",
+        "Vantage",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "617": [
+        "617",
+        "Equinix Chicago (CH1/CH2)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "618": [
+        "618",
+        "Equinix AM3",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "619": [
+        "619",
+        "SFN IA",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "620": [
+        "620",
+        "Equinix SY1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "621": [
+        "621",
+        "TCC Technology Bangna",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "622": [
+        "622",
+        "CoreSite SV1 / Hurricane Electric San Jose 1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "623": [
+        "623",
+        "Teraco DB1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "624": [
+        "624",
+        "NTT / RagingWire CA1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "625": [
+        "625",
+        "Equinix Philadelphia (PH1)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "626": [
+        "626",
+        "Equinix AM7",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "627": [
+        "627",
+        "IPB CarrierColo Berlin",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "628": [
+        "628",
+        "Equinix Geneva (GV1)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "629": [
+        "629",
+        "Digital Realty ATH1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "630": [
+        "630",
+        "Equinix London (LD8)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "631": [
+        "631",
+        "Equinix Stockholm (SK1)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "632": [
+        "632",
+        "Equinix Tokyo (TY2)",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "633": [
+        "633",
+        "core3.fmt1.he.net",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "634": [
+        "634",
+        "H5 Data Centers SAT 1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "635": [
+        "635",
+        "Globalinx",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "636": [
+        "636",
+        "CyrusOne CIN2",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "637": [
+        "637",
+        "CoreSite BO1",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "638": [
+        "638",
+        "Netrality IND / Lifeline Henry Street",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "639": [
+        "639",
+        "Equinix Seattle (SE2), Westin Building",
+        "https://lg.he.net/#",
+        "6939",
+        "US",
+        "North America"
+    ],
+    "295": [
+        "295",
+        "NetHolding",
+        "https://net.dn.ua/noc/lg.php",
+        "41039",
+        "RU",
+        "Europe"
+    ],
+    "20": [
+        "20",
+        "Axione (router1)",
+        "https://lg.axione.fr/execute.php",
+        "31167",
+        "FR",
+        "Europe"
+    ],
+    "21": [
+        "21",
+        "Axione (router2)",
+        "https://lg.axione.fr/execute.php",
+        "31167",
+        "FR",
+        "Europe"
+    ]
+}
