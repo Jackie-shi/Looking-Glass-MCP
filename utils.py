@@ -32,7 +32,7 @@ class LGInfo:
         lg_info_path = os.path.join(current_dir, 'base_data', 'lg_vp_info.json')
 
         self.eyes = json.load(open(eyes_path, 'r'))
-        self.lg_info = json.load(open(lg_info_path), 'r')
+        self.lg_info = json.load(open(lg_info_path, 'r'))
 
         self.as2lg, self.lg2vp, self.vp2lg, self.vp2as, self.as2vp, self.cmd2lg, self.vp2cmd, self.vp2country = self._init_data()
 
